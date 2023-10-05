@@ -1,0 +1,1341 @@
+MyUnknownColumn,Age,Gender,Education Level,Job Title,Years of Experience,Salary,Country,Race
+2460,25.0,Male,Bachelor's Degree,Back end Developer,2.0,90249.0,China,Chinese
+2230,36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0,UK,Mixed
+5559,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,Canada,Asian
+3080,24.0,Male,Bachelor's Degree,Back end Developer,2.0,64182.0,UK,Asian
+265,29.0,Female,Bachelor's,Junior Sales Representative,1.5,40000.0,USA,African American
+698,27.0,Male,Bachelor's,Software Engineer,4.0,140000.0,USA,African American
+6355,28.0,Male,High School,Sales Executive,2.0,40000.0,UK,Welsh
+4080,32.0,Male,Bachelor's Degree,Operations Manager,6.0,90000.0,USA,White
+3167,36.0,Male,PhD,Senior Data Scientist,12.0,170000.0,Canada,White
+470,30.0,Female,Bachelor's,Data Analyst,5.0,145000.0,Australia,White
+6567,35.0,Female,PhD,Senior Product Marketing Manager,9.0,95000.0,UK,Asian
+5651,33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0,UK,Asian
+5850,26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0,UK,Asian
+3352,48.0,Male,PhD,Director of Data Science,18.0,210000.0,Canada,Black
+2169,32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0,Canada,Asian
+1610,48.0,Male,PhD,Senior Project Engineer,16.0,190000.0,UK,Mixed
+1482,27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0,USA,African American
+3097,31.0,Male,Master's Degree,Full Stack Engineer,8.0,120288.0,China,White
+2389,43.0,Male,Master's Degree,Senior Software Engineer,21.0,185119.0,Canada,Black
+2668,38.0,Male,PhD,Senior Data Scientist,13.0,170000.0,Canada,Black
+1185,30.0,Male,Master's,Software Engineer,6.0,170000.0,Canada,White
+1622,54.0,Male,PhD,Software Engineer Manager,17.0,195000.0,UK,Asian
+1438,25.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0,USA,White
+2300,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,USA,White
+3349,26.0,Male,Bachelor's Degree,Software Developer,2.0,60000.0,Canada,Asian
+1469,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,Australia,White
+3508,26.0,Female,Bachelor's Degree,Junior Web Developer,2.0,45000.0,Australia,Australian
+1201,28.0,Male,Bachelor's Degree,Senior Software Engineer,7.0,175000.0,USA,Asian
+678,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,China,White
+4771,33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0,Australia,Asian
+180,29.0,Female,Bachelor's,Junior Sales Representative,2.0,40000.0,UK,Welsh
+6118,40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0,China,White
+3350,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,China,White
+5959,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0,Australia,Australian
+6605,26.0,Female,High School,Sales Associate,1.0,35000.0,USA,White
+5848,37.0,Male,Master's Degree,Marketing Director,14.0,190000.0,Australia,Australian
+1103,37.0,Male,PhD,Product Manager,14.0,195000.0,USA,Hispanic
+5628,35.0,Female,PhD,Research Scientist,11.0,150000.0,UK,White
+1402,56.0,Male,PhD,Software Engineer Manager,17.0,195000.0,China,White
+1588,24.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0,Canada,White
+4642,29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0,China,Chinese
+3762,44.0,Male,PhD,Data Scientist,16.0,160000.0,UK,White
+6589,28.0,Female,Master's Degree,Digital Marketing Manager,4.0,55000.0,Canada,Asian
+1399,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,China,Korean
+5527,26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0,USA,Asian
+3467,28.0,Male,Bachelor's Degree,Web Developer,4.0,65000.0,UK,White
+3308,41.0,Female,PhD,Director of Data Science,16.0,200000.0,UK,Mixed
+5464,29.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0,Australia,Australian
+132,40.0,Female,Master's,Senior Training Specialist,12.0,100000.0,Canada,Black
+1601,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,China,Korean
+231,43.0,Male,Bachelor's,Senior Project Manager,15.0,120000.0,Canada,Asian
+2100,49.0,Male,PhD,Senior Project Engineer,17.0,195000.0,China,White
+513,33.0,Female,Master's,Product Manager,11.0,198000.0,USA,African American
+1634,24.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0,USA,Hispanic
+708,30.0,Male,PhD,Data Scientist,7.0,185000.0,UK,Welsh
+3718,26.0,Male,Bachelor's Degree,Software Developer,3.0,60000.0,USA,African American
+4232,44.0,Male,PhD,Data Scientist,17.0,168000.0,Canada,White
+1797,45.0,Male,PhD,Software Engineer Manager,16.0,185000.0,Canada,White
+5372,33.0,Male,PhD,Research Scientist,10.0,150000.0,China,White
+6481,25.0,Female,High School,Sales Associate,1.0,35000.0,Australia,Australian
+5143,34.0,Female,PhD,Research Director,10.0,150000.0,Australia,Asian
+5517,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,China,Korean
+2884,30.0,Female,Master's Degree,Full Stack Engineer,6.0,110707.0,UK,Welsh
+3949,40.0,Female,Master's Degree,Human Resources Manager,12.0,130000.0,UK,White
+2483,28.0,Male,High School,Back end Developer,7.0,95845.0,China,White
+3016,42.0,Male,Master's Degree,Full Stack Engineer,19.0,177347.0,Australia,White
+4054,24.0,Male,High School,Junior Sales Associate,1.0,25000.0,Australia,Australian
+471,27.0,Male,PhD,Data Scientist,2.0,115000.0,Australia,Asian
+537,26.0,Female,Bachelor's,Data Analyst,3.0,130000.0,Australia,White
+6416,29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0,UK,White
+3873,27.0,Male,Bachelor's Degree,Software Developer,3.0,60000.0,UK,Asian
+4522,39.0,Male,Master's Degree,Director of HR,12.0,120000.0,Canada,White
+1359,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,USA,Asian
+2611,29.0,Male,PhD,Software Engineer Manager,6.0,106662.0,Canada,Asian
+6018,29.0,Male,Master's Degree,Financial Analyst,5.0,95000.0,USA,African American
+2761,48.0,Male,PhD,Director of Data Science,18.0,210000.0,UK,Welsh
+3431,45.0,Male,Master's Degree,Director of HR,14.0,140000.0,Canada,Asian
+5993,31.0,Female,PhD,Data Scientist,8.0,140000.0,Australia,White
+4260,37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0,China,White
+2518,42.0,Female,Master's Degree,Senior Software Engineer,16.0,138286.0,UK,Welsh
+3637,25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0,UK,White
+1077,24.0,Male,Bachelor's,Data Analyst,2.0,95000.0,China,White
+6557,32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0,Australia,Australian
+2479,35.0,Female,Master's Degree,Full Stack Engineer,10.0,152039.0,Australia,Asian
+6517,50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,USA,White
+1263,23.0,Male,Bachelor's Degree,Back end Developer,1.0,55000.0,UK,Asian
+4427,45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0,USA,White
+4424,32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0,Australia,White
+383,33.0,Male,PhD,Data Scientist,8.0,190000.0,UK,Mixed
+5404,28.0,Female,PhD,Data Scientist,5.0,100000.0,UK,Asian
+5314,31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0,China,Chinese
+2304,48.0,Male,PhD,Director of Data Science,18.0,210000.0,Australia,Asian
+3049,38.0,Male,Master's Degree,Full Stack Engineer,15.0,171652.0,UK,Welsh
+5568,39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0,Canada,White
+802,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,UK,Mixed
+5684,34.0,Male,PhD,Research Director,11.0,160000.0,Canada,Black
+2951,48.0,Female,Master's Degree,Senior Software Engineer,24.0,184480.0,Australia,White
+5542,31.0,Female,PhD,Data Scientist,8.0,140000.0,Canada,Black
+2447,48.0,Male,Bachelor's Degree,Front end Developer,23.0,173851.0,Australia,Australian
+437,29.0,Male,Bachelor's,Software Engineer,4.0,140000.0,Canada,Asian
+1705,35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0,Australia,Australian
+6684,37.0,Male,Bachelor's Degree,Sales Director,7.0,90000.0,China,Chinese
+5829,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0,USA,African American
+5400,31.0,Female,Master's Degree,Financial Manager,8.0,120000.0,Canada,Black
+1467,24.0,Female,Bachelor's Degree,Back end Developer,1.0,60000.0,Australia,Australian
+2036,43.0,Female,PhD,Senior Project Engineer,14.0,190000.0,USA,Asian
+3921,29.0,Female,High School,Junior Sales Associate,1.0,25000.0,Australia,Australian
+4449,41.0,Male,PhD,Data Scientist,15.0,157000.0,UK,Welsh
+5751,29.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0,USA,African American
+5294,28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0,UK,Welsh
+5688,37.0,Male,Master's Degree,Marketing Director,14.0,190000.0,USA,Asian
+1007,24.0,Male,Bachelor's,Data Analyst,2.0,95000.0,Canada,Asian
+5197,29.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0,Canada,Asian
+3300,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,Australia,Asian
+3395,38.0,Male,Master's Degree,Senior Human Resources Manager,11.0,110000.0,UK,Asian
+2897,42.0,Male,Master's Degree,Full Stack Engineer,19.0,177347.0,China,Chinese
+2939,54.0,Male,Master's Degree,Senior Software Engineer,32.0,195270.0,UK,Asian
+5316,33.0,Male,PhD,Research Scientist,10.0,150000.0,Canada,Black
+5010,26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0,China,Korean
+3484,31.0,Male,High School,Junior HR Generalist,2.0,35000.0,Canada,White
+395,28.0,Male,Bachelor's,Software Engineer,3.0,125000.0,China,Korean
+738,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,Canada,Black
+5432,28.0,Female,PhD,Data Scientist,5.0,100000.0,China,White
+4557,29.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0,UK,Welsh
+814,24.0,Male,Bachelor's,Data Analyst,1.0,95000.0,Australia,White
+3142,42.0,Male,PhD,Director of Data Science,12.0,170000.0,Australia,White
+6665,43.0,Female,Master's Degree,Sales Manager,14.0,140000.0,Australia,Australian
+6317,50.0,Female,Bachelor's Degree,Sales Manager,15.0,150000.0,China,Chinese
+4269,39.0,Male,Bachelor's Degree,Operations Manager,13.0,127000.0,UK,Asian
+5172,26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0,Australia,Australian
+536,33.0,Male,Master's,Product Manager,11.0,198000.0,UK,White
+2580,35.0,Male,Bachelor's Degree,Front end Developer,10.0,128712.0,Australia,Asian
+1958,45.0,Male,PhD,Senior Project Engineer,16.0,185000.0,China,Korean
+336,29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,UK,Mixed
+1041,31.0,Male,Bachelor's,Data Analyst,9.0,190000.0,USA,White
+2341,32.0,Male,Master's Degree,Product Manager,7.0,110000.0,Australia,Asian
+5415,37.0,Male,Bachelor's Degree,Product Manager,13.0,160000.0,Canada,Black
+4201,29.0,Female,High School,Junior Sales Associate,1.0,26000.0,China,Chinese
+1194,31.0,Male,Master's,Data Scientist,9.0,185000.0,Australia,Asian
+2720,36.0,Male,PhD,Senior Data Scientist,12.0,170000.0,USA,White
+4832,28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0,USA,Hispanic
+1722,25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,UK,White
+6209,34.0,Male,PhD,Research Director,12.0,170000.0,UK,Mixed
+2404,34.0,Male,Master's Degree,Full Stack Engineer,12.0,160976.0,USA,African American
+475,33.0,Male,PhD,Data Scientist,8.0,190000.0,UK,Mixed
+61,29.0,Male,Bachelor's,Marketing Analyst,3.0,50000.0,China,Chinese
+248,41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,USA,African American
+3358,28.0,Male,Bachelor's Degree,Software Engineer,4.0,75000.0,USA,Hispanic
+3507,45.0,Male,PhD,Director of HR,14.0,140000.0,USA,White
+5537,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,China,Chinese
+31,31.0,Female,Bachelor's,Accountant,4.0,55000.0,UK,White
+2652,54.0,Male,Bachelor's Degree,Full Stack Engineer,27.0,183417.0,USA,White
+5278,25.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0,Canada,White
+2512,26.0,Male,Master's Degree,Full Stack Engineer,4.0,102859.0,UK,Welsh
+5060,30.0,Male,Master's Degree,Financial Manager,7.0,120000.0,UK,Mixed
+6512,23.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0,USA,Hispanic
+1223,57.0,Male,PhD,Software Engineer Manager,18.0,195000.0,China,White
+5611,26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0,USA,Hispanic
+2910,46.0,Male,Master's Degree,Senior Software Engineer,20.0,174938.0,USA,African American
+2629,49.0,Male,Bachelor's Degree,Back end Developer,24.0,178284.0,USA,Asian
+4273,26.0,Male,High School,Junior Sales Associate,1.0,26000.0,Australia,White
+17,39.0,Male,PhD,Senior Engineer,12.0,115000.0,UK,Mixed
+96,47.0,Male,PhD,Research Scientist,22.0,160000.0,Australia,Asian
+2797,49.0,Male,Master's Degree,Software Engineer Manager,23.0,182392.0,USA,Hispanic
+1163,30.0,Male,Master's,Software Engineer,6.0,170000.0,Canada,White
+3827,43.0,Male,PhD,Data Scientist,16.0,160000.0,Canada,Asian
+218,29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,35000.0,UK,Asian
+551,29.0,Female,Master's,Data Scientist,6.0,180000.0,Canada,White
+2312,34.0,Male,Master's Degree,Data Analyst,8.0,100000.0,Canada,White
+5865,31.0,Female,PhD,Data Scientist,8.0,140000.0,Australia,Australian
+5645,24.0,Male,High School,Delivery Driver,0.0,28000.0,UK,White
+3200,24.0,Female,Bachelor's Degree,Software Developer,2.0,55000.0,USA,White
+587,30.0,Female,PhD,Data Scientist,7.0,185000.0,USA,Hispanic
+3604,44.0,Female,PhD,Director of HR,13.0,135000.0,China,Korean
+2366,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,USA,Asian
+4708,38.0,Female,PhD,Senior Research Scientist,12.0,140000.0,USA,Hispanic
+50,51.0,Female,Bachelor's,Customer Service Manager,22.0,130000.0,China,Korean
+3982,44.0,Male,PhD,Data Scientist,15.0,150000.0,Australia,Australian
+2201,30.0,Female,Bachelor's Degree,Full Stack Engineer,5.0,100000.0,UK,White
+2135,35.0,Female,Master's Degree,Full Stack Engineer,8.0,140000.0,Australia,Australian
+1317,34.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0,UK,White
+80,36.0,Male,Bachelor's,Technical Recruiter,8.0,70000.0,UK,Asian
+3658,26.0,Male,Bachelor's Degree,Software Developer,3.0,60000.0,Australia,Asian
+959,29.0,Female,Master's,Data Analyst,6.0,150000.0,USA,Asian
+2581,44.0,Female,PhD,Software Engineer Manager,18.0,161621.0,USA,Hispanic
+2286,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,UK,White
+4621,29.0,Female,Master's Degree,Web Developer,3.0,60000.0,USA,White
+2117,49.0,Male,PhD,Senior Project Engineer,17.0,195000.0,China,Korean
+4404,41.0,Male,PhD,Data Scientist,15.0,157000.0,Canada,Asian
+1199,25.0,Female,Bachelor's,Data Analyst,2.0,90000.0,UK,White
+1704,43.0,Male,PhD,Senior Project Engineer,13.0,185000.0,China,White
+2765,25.0,Female,Master's Degree,Software Engineer,2.0,60000.0,UK,Asian
+1878,46.0,Male,PhD,Senior Project Engineer,15.0,180000.0,USA,African American
+4287,35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0,China,Chinese
+4423,48.0,Male,PhD,Data Scientist,22.0,219000.0,UK,Mixed
+3709,28.0,Male,High School,Junior Sales Associate,2.0,35000.0,Australia,White
+4855,27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0,Canada,Asian
+627,26.0,Female,Bachelor's,Data Analyst,3.0,130000.0,Canada,Asian
+4025,35.0,Female,Master's Degree,Marketing Manager,10.0,110000.0,Canada,Asian
+234,42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0,Canada,White
+3773,33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,USA,Hispanic
+2885,40.0,Male,Master's Degree,Software Engineer Manager,17.0,151670.0,Canada,White
+474,25.0,Female,Master's,Data Analyst,1.0,100000.0,Canada,Asian
+93,52.0,Female,Master's,Senior Marketing Manager,25.0,170000.0,China,Chinese
+2545,46.0,Male,Master's Degree,Senior Software Engineer,21.0,174305.0,UK,Mixed
+5255,30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0,Australia,Australian
+1595,28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0,USA,Hispanic
+5081,27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0,USA,Asian
+4503,28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,37000.0,Australia,Asian
+6211,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,Canada,White
+1485,43.0,Male,PhD,Senior Project Engineer,13.0,185000.0,China,Korean
+3132,41.0,Male,PhD,Software Engineer Manager,16.0,151310.0,Australia,Asian
+1535,46.0,Male,PhD,Senior Project Engineer,16.0,190000.0,UK,White
+3670,33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0,UK,Mixed
+6399,36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0,China,Chinese
+3945,39.0,Female,Master's Degree,Marketing Manager,11.0,120000.0,USA,Hispanic
+1341,43.0,Male,PhD,Senior Software Engineer,12.0,170000.0,USA,Asian
+5475,29.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0,USA,Hispanic
+5198,27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0,China,Korean
+4016,38.0,Male,PhD,Data Scientist,12.0,130000.0,China,Korean
+4989,36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0,Canada,White
+1246,56.0,Male,PhD,Software Engineer Manager,17.0,195000.0,China,White
+5617,25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0,Australia,Asian
+3365,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,USA,White
+240,44.0,Female,PhD,Senior HR Manager,18.0,160000.0,Canada,White
+3196,37.0,Male,Bachelor's Degree,Data Analyst,11.0,160000.0,Canada,White
+2665,29.0,Female,Bachelor's Degree,Software Developer,5.0,80000.0,Australia,Australian
+3542,27.0,Female,High School,Junior HR Coordinator,1.0,30000.0,China,White
+4015,27.0,Female,Master's Degree,Marketing Manager,3.0,60000.0,UK,White
+380,29.0,Female,Bachelor's,Software Engineer,4.0,140000.0,Australia,White
+5298,26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0,China,White
+5603,25.0,Male,Bachelor's Degree,Product Manager,1.0,55000.0,Canada,Black
+6140,27.0,Male,Bachelor's Degree,Software Engineer,2.0,70000.0,Australia,Australian
+1994,39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0,UK,Asian
+2789,54.0,Male,Bachelor's Degree,Senior Project Engineer,28.0,192292.0,UK,Asian
+2004,30.0,Female,Master's Degree,Front end Developer,5.0,105000.0,Australia,Asian
+998,27.0,Male,Bachelor's,Software Engineer,4.0,160000.0,Canada,Asian
+2234,46.0,Male,PhD,Software Engineer Manager,16.0,185000.0,USA,Hispanic
+5226,27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0,UK,Welsh
+5365,27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0,Australia,White
+2308,25.0,Female,Master's Degree,Software Engineer,2.0,60000.0,China,Chinese
+505,34.0,Male,Bachelor's,Product Manager,9.0,185000.0,Australia,Australian
+3518,25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0,Canada,Asian
+1489,49.0,Male,PhD,Software Engineer Manager,15.0,185000.0,Australia,Asian
+3912,42.0,Male,PhD,Data Scientist,14.0,140000.0,China,Korean
+1620,40.0,Male,PhD,Senior Software Engineer,12.0,160000.0,USA,Hispanic
+6439,27.0,Male,PhD,Marketing Manager,4.0,55000.0,Canada,Asian
+5063,28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0,Canada,Asian
+5208,23.0,Male,Bachelor's Degree,Software Engineer,1.0,60000.0,USA,Hispanic
+1428,27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0,Australia,Asian
+5767,27.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0,Australia,Asian
+3407,31.0,Female,High School,Junior HR Coordinator,3.0,38000.0,Canada,White
+1099,29.0,Male,Bachelor's,Data Analyst,7.0,130000.0,Australia,Australian
+1076,33.0,Female,Master's,Product Manager,11.0,195000.0,USA,African American
+5529,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0,China,White
+1809,28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0,UK,Welsh
+2675,28.0,Female,Bachelor's Degree,Software Engineer,4.0,70000.0,USA,Hispanic
+23,36.0,Female,Bachelor's,Recruiter,9.0,60000.0,China,White
+2927,24.0,Male,PhD,Software Engineer Manager,1.0,106686.0,USA,White
+563,33.0,Female,Master's,Product Manager,11.0,198000.0,Australia,Australian
+1923,33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0,Australia,Asian
+3052,47.0,Male,PhD,Software Engineer Manager,21.0,174985.0,UK,Mixed
+6501,32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0,UK,Mixed
+3812,43.0,Male,PhD,Data Scientist,16.0,160000.0,Canada,White
+4990,25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0,Australia,Asian
+2734,41.0,Female,PhD,Director of Data Science,16.0,200000.0,UK,Mixed
+3415,37.0,Female,Master's Degree,Senior Human Resources Manager,9.0,105000.0,Australia,White
+2085,36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0,USA,African American
+5502,27.0,Female,Bachelor's Degree,Marketing Coordinator,2.0,50000.0,China,Korean
+3444,24.0,Female,Bachelor's Degree,Junior Web Developer,1.0,40000.0,Australia,Australian
+2330,24.0,Female,Bachelor's Degree,Software Developer,2.0,55000.0,USA,White
+6238,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,65000.0,USA,Hispanic
+4162,43.0,Male,PhD,Data Scientist,16.0,162000.0,China,Chinese
+4321,51.0,Male,PhD,Data Scientist,24.0,240000.0,China,Chinese
+3532,46.0,Male,PhD,Director of HR,15.0,150000.0,UK,Welsh
+1871,49.0,Female,PhD,Senior Project Engineer,17.0,195000.0,Canada,White
+2096,45.0,Male,PhD,Senior Project Engineer,16.0,185000.0,Australia,Asian
+2455,34.0,Female,Bachelor's Degree,Full Stack Engineer,8.0,122485.0,UK,White
+745,27.0,Male,Bachelor's,Software Engineer,4.0,140000.0,UK,Welsh
+5053,24.0,Female,High School,Sales Associate,1.0,30000.0,China,Korean
+4444,44.0,Female,PhD,Data Scientist,18.0,183000.0,China,Chinese
+2887,36.0,Male,Master's Degree,Full Stack Engineer,13.0,146508.0,Canada,White
+4007,47.0,Male,PhD,Data Scientist,19.0,190000.0,Australia,White
+6277,30.0,Female,High School,Sales Executive,2.0,40000.0,Canada,Asian
+1221,27.0,Male,Bachelor's Degree,Senior Project Engineer,4.0,115000.0,USA,White
+3654,40.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0,China,Chinese
+4729,25.0,Male,High School,Junior Sales Associate,1.0,30000.0,UK,Mixed
+6375,45.0,Male,Master's Degree,Marketing Manager,13.0,130000.0,UK,Asian
+2419,24.0,Female,Bachelor's Degree,Front end Developer,1.0,51265.0,USA,Asian
+5207,31.0,Female,Master's Degree,Financial Manager,7.0,120000.0,Canada,Black
+4163,34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0,UK,Welsh
+2829,54.0,Male,Bachelor's Degree,Full Stack Engineer,25.0,179756.0,UK,Welsh
+2519,49.0,Male,Bachelor's Degree,Full Stack Engineer,22.0,181132.0,Australia,Australian
+5017,33.0,Male,PhD,Sales Director,10.0,155000.0,UK,Mixed
+1893,27.0,Female,Bachelor's Degree,Back end Developer,3.0,80000.0,UK,White
+1092,27.0,Female,Bachelor's,Data Analyst,5.0,120000.0,Canada,White
+5358,27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0,Australia,White
+5428,31.0,Female,Master's Degree,Financial Manager,8.0,120000.0,UK,White
+5511,37.0,Male,Master's Degree,Marketing Director,14.0,180000.0,Canada,Black
+2409,35.0,Female,Bachelor's Degree,Back end Developer,10.0,114776.0,Australia,Asian
+4559,33.0,Female,Bachelor's Degree,Junior HR Generalist,7.0,65000.0,China,White
+4216,29.0,Female,High School,Junior Sales Associate,1.0,26000.0,Canada,White
+4629,26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0,Canada,White
+4909,33.0,Male,PhD,Sales Director,10.0,155000.0,Canada,Black
+1354,31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0,Australia,White
+2420,43.0,Male,High School,Senior Software Engineer,22.0,165919.0,Australia,White
+4541,29.0,Female,Master's Degree,Web Developer,4.0,65000.0,UK,Mixed
+2999,26.0,Female,Master's Degree,Front end Developer,2.0,65840.0,Australia,Australian
+493,28.0,Male,Master's,Product Manager,3.0,130000.0,Canada,Asian
+3466,44.0,Female,PhD,Director of HR,13.0,135000.0,China,White
+478,30.0,Female,Bachelor's,Data Analyst,5.0,145000.0,China,Chinese
+3157,48.0,Male,PhD,Director of Data Science,18.0,210000.0,UK,Mixed
+4830,26.0,Male,High School,Junior Sales Associate,2.0,31000.0,UK,White
+5149,34.0,Female,PhD,Research Director,10.0,150000.0,USA,Asian
+1584,49.0,Male,PhD,Software Engineer Manager,15.0,185000.0,UK,Mixed
+3957,42.0,Male,PhD,Data Scientist,14.0,140000.0,USA,White
+3482,24.0,Female,Bachelor's Degree,Web Developer,1.0,40000.0,USA,Hispanic
+4027,49.0,Male,PhD,Data Scientist,22.0,220000.0,UK,White
+3190,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,China,Chinese
+5385,32.0,Male,PhD,Research Scientist,10.0,150000.0,Australia,Asian
+3882,46.0,Male,PhD,Data Scientist,18.0,180000.0,China,White
+2584,26.0,Female,Master's Degree,Front end Developer,3.0,72649.0,Australia,White
+4193,34.0,Female,Bachelor's Degree,Human Resources Manager,9.0,99000.0,Australia,Asian
+4763,30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0,Canada,Black
+1652,33.0,Male,Bachelor's Degree,Full Stack Engineer,7.0,130000.0,UK,Welsh
+79,30.0,Female,Bachelor's,Content Marketing Manager,3.0,55000.0,Australia,White
+4848,32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0,China,Korean
+1571,49.0,Male,PhD,Software Engineer Manager,15.0,185000.0,USA,African American
+3172,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,Australia,Asian
+3720,31.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0,China,White
+3840,32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0,USA,Asian
+3731,29.0,Female,High School,Junior Sales Associate,1.0,30000.0,Australia,Asian
+1552,38.0,Female,Master's Degree,Back end Developer,10.0,155000.0,UK,Asian
+4570,35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0,UK,Mixed
+2438,42.0,Female,Master's Degree,Senior Software Engineer,16.0,138286.0,UK,Asian
+3209,34.0,Male,Master's Degree,Data Scientist,9.0,140000.0,Australia,Australian
+2466,35.0,Male,Master's Degree,Senior Project Engineer,8.0,101332.0,China,White
+3211,32.0,Male,Master's Degree,Product Manager,7.0,110000.0,Canada,White
+5367,30.0,Female,Bachelor's Degree,Digital Marketing Specialist,4.0,65000.0,China,Korean
+6438,32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0,USA,Hispanic
+2849,34.0,Male,Master's Degree,Software Engineer Manager,9.0,146075.0,USA,White
+6451,26.0,Male,High School,Sales Manager,2.0,40000.0,USA,White
+4697,31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0,UK,Mixed
+2835,40.0,Male,Master's Degree,Software Engineer Manager,16.0,150301.0,Canada,Asian
+6289,43.0,Female,Bachelor's Degree,Content Marketing Manager,12.0,120000.0,Australia,White
+5772,39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0,China,Chinese
+3312,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,Canada,Asian
+546,24.0,Male,Bachelor's,Data Analyst,1.0,90000.0,USA,African American
+326,43.0,Female,PhD,Senior Data Scientist,15.0,150000.0,USA,African American
+1470,24.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,UK,Welsh
+4257,50.0,Male,PhD,Data Scientist,23.0,225000.0,UK,Welsh
+6242,40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0,Canada,White
+2187,36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0,China,White
+5296,27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0,USA,Hispanic
+962,33.0,Female,Master's,Product Manager,11.0,190000.0,UK,Mixed
+4166,30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0,USA,African American
+3127,36.0,Female,Master's Degree,Senior Project Engineer,12.0,130356.0,Australia,Asian
+5946,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,Canada,White
+835,24.0,Male,Bachelor's,Data Analyst,1.0,92000.0,China,White
+2166,39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0,Australia,Asian
+4090,36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0,USA,Hispanic
+2144,26.0,Male,Bachelor's Degree,Back end Developer,2.0,65000.0,Canada,Asian
+1942,29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0,Canada,Black
+2617,42.0,Female,Bachelor's Degree,Senior Software Engineer,20.0,150534.0,UK,White
+3206,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,UK,Asian
+2390,37.0,Female,Bachelor's Degree,Full Stack Engineer,10.0,149217.0,China,White
+6354,43.0,Female,Bachelor's Degree,Marketing Manager,12.0,120000.0,Canada,Asian
+3918,25.0,Female,Bachelor's Degree,Junior Software Developer,1.0,35000.0,Australia,Australian
+5455,26.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0,USA,Asian
+88,46.0,Male,Master's,Senior Project Manager,21.0,135000.0,Canada,Asian
+5123,36.0,Male,Bachelor's Degree,Sales Manager,11.0,160000.0,USA,Asian
+6095,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,Australia,Asian
+2974,26.0,Female,Master's Degree,Front end Developer,2.0,65840.0,USA,Asian
+3586,28.0,Male,Bachelor's Degree,Web Developer,4.0,65000.0,Canada,Black
+156,32.0,Female,Bachelor's,Junior Financial Analyst,5.0,50000.0,USA,Asian
+2486,37.0,Other,Master's Degree,Full Stack Engineer,14.0,161393.0,USA,Asian
+3819,27.0,Male,High School,Junior Sales Associate,2.0,35000.0,USA,White
+5957,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0,Canada,Black
+6134,39.0,Male,PhD,Research Scientist,14.0,185000.0,UK,White
+6398,50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,Canada,Black
+2649,35.0,Male,Bachelor's Degree,Front end Developer,9.0,125091.0,Canada,White
+1081,31.0,Male,Bachelor's,Data Analyst,9.0,190000.0,UK,White
+4817,30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,57000.0,Canada,Asian
+5633,30.0,Male,Bachelor's Degree,Project Manager,6.0,110000.0,Australia,Australian
+3164,41.0,Female,PhD,Director of Data Science,16.0,200000.0,Australia,White
+199,35.0,Male,Master's,Senior Software Developer,9.0,110000.0,Canada,Asian
+2408,53.0,Male,PhD,Software Engineer Manager,25.0,181714.0,Canada,White
+6032,24.0,Male,High School,Delivery Driver,0.0,28000.0,Canada,Asian
+73,28.0,Male,Bachelor's,Technical Support Specialist,2.0,40000.0,China,Korean
+4286,44.0,Male,PhD,Data Scientist,18.0,182000.0,USA,Asian
+4813,30.0,Female,Bachelor's Degree,Junior Marketing Manager,4.0,57000.0,UK,Welsh
+1872,36.0,Male,Master's Degree,Back end Developer,9.0,150000.0,UK,White
+1846,25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,Australia,White
+4928,26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0,China,Chinese
+6427,36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0,China,White
+2743,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,China,Korean
+3302,34.0,Male,Master's Degree,Data Scientist,9.0,140000.0,China,Chinese
+6701,30.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0,China,Chinese
+6668,28.0,Male,PhD,Sales Representative,4.0,55000.0,China,White
+4481,26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0,Australia,Australian
+6310,23.0,Male,High School,Sales Executive,1.0,35000.0,Canada,Asian
+2473,26.0,Male,Bachelor's Degree,Back end Developer,3.0,75072.0,Canada,Asian
+2590,45.0,Female,Bachelor's Degree,Senior Project Engineer,22.0,171036.0,Australia,Australian
+5426,34.0,Female,PhD,Research Director,11.0,160000.0,Australia,Asian
+4306,51.0,Male,PhD,Data Scientist,24.0,240000.0,China,Korean
+5398,34.0,Female,PhD,Research Director,11.0,160000.0,Australia,White
+6081,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,USA,African American
+2253,22.0,Male,Bachelor's Degree,Front End Developer,1.0,50000.0,Australia,White
+5879,28.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,60000.0,UK,Asian
+4759,39.0,Female,PhD,Senior Research Scientist,13.0,145000.0,UK,White
+1387,24.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,USA,White
+4556,32.0,Male,Master's Degree,Web Developer,6.0,80000.0,UK,White
+4084,24.0,Male,High School,Junior Sales Associate,1.0,25000.0,Canada,Black
+2648,31.0,Female,Master's Degree,Senior Software Engineer,6.0,113065.0,China,Korean
+1608,27.0,Female,Master's Degree,Back end Developer,2.0,70000.0,USA,African American
+5451,27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0,Australia,Asian
+1947,36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0,Canada,Black
+5643,28.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0,UK,Mixed
+3301,48.0,Male,PhD,Director of Data Science,18.0,210000.0,USA,White
+2434,46.0,Male,Bachelor's Degree,Senior Project Engineer,23.0,181699.0,China,White
+2598,33.0,Female,Master's Degree,Full Stack Engineer,9.0,136533.0,UK,White
+4441,31.0,Female,High School,Junior Sales Associate,1.0,25000.0,Canada,White
+1330,30.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0,USA,White
+6202,32.0,Female,PhD,Data Scientist,9.0,145000.0,China,Korean
+4603,24.0,Female,High School,Juniour HR Coordinator,1.0,32000.0,Canada,White
+209,30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,China,Korean
+6037,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,75000.0,UK,White
+3065,44.0,Female,PhD,Software Engineer Manager,18.0,162454.0,USA,African American
+1422,23.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,Australia,Australian
+3212,25.0,Female,Master's Degree,Software Engineer,2.0,60000.0,USA,African American
+2185,49.0,Male,PhD,Senior Project Engineer,17.0,195000.0,Canada,Asian
+498,25.0,Female,Master's,Data Analyst,1.0,100000.0,China,Korean
+6302,50.0,Male,PhD,Senior Product Marketing Manager,15.0,150000.0,Australia,White
+2986,24.0,Male,Bachelor's Degree,Back end Developer,1.0,55935.0,UK,White
+6535,29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0,Australia,Asian
+1749,33.0,Male,Bachelor's Degree,Front end Developer,6.0,110000.0,Canada,Asian
+6304,48.0,Male,Master's Degree,Director of Marketing,18.0,180000.0,China,Korean
+2827,44.0,Female,PhD,Software Engineer Manager,18.0,162454.0,China,White
+1117,28.0,Male,Bachelor's,Software Engineer,4.0,160000.0,Canada,White
+3198,41.0,Female,PhD,Director of Data Science,16.0,200000.0,USA,White
+3251,24.0,Female,Bachelor's Degree,Software Developer,2.0,55000.0,Australia,Asian
+2867,24.0,Male,Bachelor's Degree,Back end Developer,1.0,55935.0,UK,Asian
+2600,54.0,Female,PhD,Software Engineer Manager,31.0,191818.0,Australia,Australian
+1731,55.0,Male,PhD,Software Engineer Manager,18.0,210000.0,USA,Hispanic
+765,27.0,Male,Bachelor's,Software Engineer,4.0,140000.0,China,Korean
+5566,24.0,Female,High School,Receptionist,0.0,25000.0,USA,Asian
+5682,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,Australia,Australian
+4955,28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0,UK,Asian
+1805,49.0,Female,PhD,Senior Project Engineer,17.0,195000.0,USA,White
+4765,27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0,USA,Asian
+4596,34.0,Male,Master's Degree,Director of HR,10.0,105000.0,UK,White
+4946,29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0,UK,Welsh
+1966,43.0,Female,PhD,Senior Project Engineer,14.0,190000.0,USA,African American
+5001,45.0,Male,Bachelor's Degree,Financial Manager,21.0,250000.0,Canada,Black
+6385,36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0,Canada,White
+5489,32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0,Australia,Asian
+403,31.0,Female,Bachelor's,Software Engineer,6.0,155000.0,Australia,Australian
+4336,51.0,Male,PhD,Data Scientist,24.0,240000.0,USA,White
+1509,44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0,Canada,Asian
+844,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,Australia,Asian
+4587,26.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0,China,White
+5609,37.0,Male,Master's Degree,Marketing Director,14.0,180000.0,Canada,Black
+1555,27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0,Canada,Asian
+1044,29.0,Female,Master's,Data Scientist,6.0,150000.0,Canada,Asian
+2901,30.0,Female,Master's Degree,Senior Project Engineer,4.0,92438.0,Canada,Black
+5177,34.0,Female,PhD,Research Director,10.0,150000.0,USA,Asian
+4716,29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0,Canada,Asian
+4417,45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0,UK,Mixed
+1546,31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0,China,Korean
+5157,27.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0,UK,Asian
+4313,41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0,China,White
+2448,31.0,Other,High School,Back end Developer,8.0,104127.0,Australia,White
+4046,28.0,Female,High School,Junior Sales Associate,1.0,25000.0,China,Chinese
+6580,38.0,Male,Master's Degree,Marketing Manager,12.0,120000.0,UK,White
+6655,51.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,Canada,Asian
+3260,34.0,Male,Master's Degree,Data Scientist,9.0,140000.0,UK,Welsh
+3240,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,Canada,White
+683,33.0,Female,Master's,Product Manager,10.0,195000.0,China,Korean
+3694,28.0,Male,High School,Junior Sales Associate,2.0,35000.0,UK,White
+5874,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,Canada,Asian
+3092,50.0,Female,Master's Degree,Senior Project Engineer,22.0,182768.0,China,Chinese
+1155,25.0,Female,Bachelor's,Data Analyst,2.0,90000.0,Australia,White
+1080,30.0,Female,PhD,Data Scientist,7.0,170000.0,USA,African American
+3457,36.0,Female,Master's Degree,Web Developer,7.0,85000.0,USA,African American
+2804,28.0,Male,Bachelor's Degree,Full Stack Engineer,4.0,77606.0,China,Korean
+5132,33.0,Male,Bachelor's Degree,Marketing Manager,7.0,110000.0,Australia,Asian
+1036,33.0,Female,Master's,Product Manager,11.0,195000.0,Australia,Asian
+3809,39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0,USA,African American
+4672,29.0,Female,Bachelor's Degree,Junior Marketing Manager,3.0,55000.0,China,White
+2379,27.0,Female,Master's Degree,Front end Developer,5.0,78354.0,China,Korean
+4622,35.0,Male,PhD,Senior Human Resources Manager,10.0,110000.0,USA,Hispanic
+1537,28.0,Female,Bachelor's Degree,Front end Developer,3.0,80000.0,Canada,Black
+5328,28.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0,UK,White
+2217,46.0,Male,PhD,Software Engineer Manager,16.0,185000.0,Australia,White
+6412,50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,UK,Welsh
+6090,40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0,China,Chinese
+613,31.0,Female,Master's,Data Scientist,6.0,180000.0,Canada,White
+323,47.0,Male,PhD,Director of Engineering,20.0,180000.0,China,White
+5666,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,Australia,Australian
+2170,36.0,Male,Bachelor's Degree,Software Engineer Manager,8.0,135000.0,Canada,Asian
+4886,25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0,USA,African American
+5706,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0,Canada,White
+37,42.0,Male,Master's,Project Engineer,14.0,115000.0,China,White
+6033,38.0,Male,Master's Degree,Marketing Director,14.0,195000.0,USA,White
+2368,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,Australia,Australian
+830,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,UK,Asian
+298,30.0,Female,Bachelor's,Junior Operations Coordinator,2.0,40000.0,Australia,White
+996,33.0,Female,Master's,Product Manager,11.0,195000.0,USA,White
+1244,50.0,Female,PhD,Software Engineer Manager,16.0,185000.0,Australia,Asian
+6047,38.0,Male,Master's Degree,Marketing Director,14.0,195000.0,Canada,Black
+1049,25.0,Female,Bachelor's,Data Analyst,2.0,100000.0,China,Chinese
+6221,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,UK,Mixed
+5991,39.0,Female,Bachelor's Degree,Financial Manager,16.0,200000.0,Australia,Australian
+5221,22.0,Female,High School,Receptionist,0.0,25000.0,Canada,Asian
+3427,31.0,Male,High School,Junior HR Generalist,2.0,35000.0,Canada,White
+540,34.0,Male,Master's,Product Manager,12.0,196000.0,China,Korean
+5159,29.0,Female,Bachelor's Degree,Digital Marketing Specialist,3.0,60000.0,USA,Hispanic
+5450,31.0,Female,Master's Degree,Financial Manager,8.0,120000.0,Australia,Asian
+2693,48.0,Male,PhD,Director of Data Science,18.0,210000.0,China,Chinese
+744,24.0,Male,Bachelor's,Data Analyst,1.0,90000.0,Australia,Asian
+2909,23.0,Female,High School,Back end Developer,1.0,52807.0,UK,White
+5184,35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0,USA,White
+1058,27.0,Male,Bachelor's,Software Engineer,4.0,160000.0,Canada,Asian
+348,28.0,Female,Bachelor's,Junior Operations Manager,1.0,35000.0,Canada,Asian
+1619,31.0,Male,Master's Degree,Senior Project Engineer,6.0,125000.0,UK,White
+3453,27.0,Female,High School,Junior HR Generalist,1.0,32000.0,UK,White
+1899,35.0,Male,Master's Degree,Back end Developer,8.0,140000.0,UK,White
+714,30.0,Male,Bachelor's,Data Analyst,5.0,160000.0,UK,White
+5493,33.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0,Australia,White
+2730,32.0,Male,Master's Degree,Product Manager,7.0,110000.0,Australia,Asian
+5031,21.0,Female,High School,Junior Sales Representative,0.0,25000.0,UK,White
+467,33.0,Male,PhD,Data Scientist,8.0,190000.0,China,Korean
+6537,25.0,Female,High School,Sales Executive,1.0,35000.0,UK,Mixed
+4733,35.0,Male,PhD,Senior Research Scientist,10.0,130000.0,UK,White
+2783,28.0,Male,Master's Degree,Full Stack Engineer,5.0,84181.0,UK,Mixed
+4013,28.0,Male,Bachelor's Degree,Software Developer,3.0,60000.0,China,Korean
+157,33.0,Male,Master's,Senior Operations Manager,7.0,115000.0,China,Korean
+353,48.0,Male,Master's,Director of Marketing,21.0,180000.0,Canada,Asian
+6130,24.0,Female,High School,Receptionist,0.0,25000.0,China,Chinese
+1190,28.0,Female,Master's,Data Scientist,6.0,150000.0,Canada,Asian
+4337,28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0,China,Chinese
+6467,28.0,Female,High School,Sales Representative,2.0,40000.0,China,White
+3754,28.0,Male,High School,Junior Sales Associate,2.0,35000.0,UK,Welsh
+6650,24.0,Male,Bachelor's Degree,Sales Representative,1.0,35000.0,Canada,Asian
+5292,26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0,Canada,Asian
+2594,26.0,Male,Master's Degree,Full Stack Engineer,4.0,90944.0,Canada,Asian
+1885,45.0,Male,PhD,Software Engineer Manager,16.0,185000.0,Australia,Australian
+6089,38.0,Male,Master's Degree,Marketing Director,14.0,195000.0,UK,Asian
+1376,38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0,Canada,Asian
+4158,30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0,USA,Asian
+5376,28.0,Female,PhD,Data Scientist,5.0,100000.0,USA,Asian
+5819,24.0,Female,High School,Receptionist,0.0,25000.0,China,Korean
+3961,30.0,Male,Bachelor's Degree,Software Engineer,4.0,65000.0,UK,Mixed
+1807,33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0,USA,Hispanic
+167,46.0,Male,PhD,Senior Researcher,18.0,150000.0,Canada,Black
+6177,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,Canada,Black
+5510,24.0,Female,High School,Receptionist,0.0,25000.0,Australia,Australian
+5456,31.0,Female,Master's Degree,Financial Manager,8.0,120000.0,Australia,Australian
+6506,31.0,Male,High School,Sales Associate,3.0,50000.0,Australia,White
+3805,38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0,USA,African American
+3156,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,Canada,White
+4745,33.0,Male,Master's Degree,Senior Data Scientist,8.0,120000.0,Australia,Australian
+6543,32.0,Female,Bachelor's Degree,Director of Marketing,8.0,80000.0,Canada,Asian
+2265,29.0,Male,Bachelor's Degree,Front End Developer,4.0,80000.0,China,White
+3197,28.0,Male,Bachelor's Degree,Software Engineer,4.0,75000.0,UK,Asian
+4953,28.0,Female,PhD,Director of Marketing,6.0,105000.0,UK,White
+1739,27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0,Australia,Asian
+3558,30.0,Male,High School,Junior HR Generalist,1.0,32000.0,China,Korean
+923,30.0,Female,PhD,Data Scientist,7.0,185000.0,UK,Asian
+1487,32.0,Male,Master's Degree,Back end Developer,6.0,130000.0,USA,Asian
+2852,49.0,Female,PhD,Software Engineer Manager,22.0,178684.0,UK,Welsh
+5461,32.0,Male,Bachelor's Degree,Project Manager,8.0,120000.0,Australia,White
+1151,29.0,Female,Bachelor's,Data Analyst,7.0,130000.0,China,Korean
+375,31.0,Male,Master's,Data Scientist,6.0,160000.0,Australia,White
+4761,33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0,China,White
+6231,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,75000.0,USA,White
+310,29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0,Australia,White
+5710,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,USA,African American
+1421,45.0,Male,PhD,Senior Project Engineer,14.0,185000.0,USA,Hispanic
+5370,31.0,Male,Master's Degree,Financial Analyst,6.0,100000.0,UK,Welsh
+2353,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,UK,Mixed
+4475,38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0,Canada,Asian
+1040,30.0,Female,PhD,Data Scientist,7.0,170000.0,Australia,Australian
+6151,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,China,Korean
+1564,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,Canada,Asian
+758,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,USA,White
+1720,27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0,Canada,Black
+5304,28.0,Male,Bachelor's Degree,Software Engineer,3.0,85000.0,Canada,Asian
+1176,34.0,Male,Bachelor's,Software Engineer,12.0,195000.0,USA,African American
+6691,36.0,Female,PhD,Marketing Manager,9.0,95000.0,China,Chinese
+1490,27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0,UK,Mixed
+2335,26.0,Male,Bachelor's Degree,Software Developer,2.0,60000.0,China,Korean
+5115,28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0,UK,Mixed
+1374,54.0,Male,PhD,Software Engineer Manager,17.0,195000.0,Australia,Asian
+4297,31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0,UK,White
+324,29.0,Female,Bachelor's,Junior Marketing Analyst,2.0,40000.0,Australia,Australian
+249,47.0,Male,Master's,Director of Operations,20.0,170000.0,Canada,White
+6150,36.0,Female,PhD,Research Scientist,13.0,185000.0,UK,Asian
+1708,35.0,Male,Bachelor's Degree,Full Stack Engineer,8.0,145000.0,Canada,Asian
+2417,28.0,Female,Master's Degree,Full Stack Engineer,7.0,115920.0,China,Korean
+1440,46.0,Male,PhD,Software Engineer Manager,14.0,180000.0,Canada,White
+4097,40.0,Male,PhD,Data Scientist,15.0,150000.0,USA,African American
+5940,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,China,Chinese
+3462,37.0,Male,PhD,Director of HR,11.0,115000.0,UK,Asian
+5866,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0,Canada,Asian
+685,30.0,Female,PhD,Data Scientist,6.0,170000.0,Canada,White
+91,29.0,Female,Bachelor's,Sales Associate,3.0,40000.0,China,White
+934,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,UK,Asian
+320,45.0,Female,Master's,Senior Marketing Manager,16.0,160000.0,Canada,Black
+4525,26.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,35000.0,Canada,White
+6115,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,UK,Mixed
+3602,39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0,Australia,Asian
+2400,28.0,Male,Master's Degree,Front end Developer,5.0,76742.0,Australia,Australian
+6627,51.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,UK,White
+754,24.0,Male,Bachelor's,Data Analyst,1.0,90000.0,China,Chinese
+1105,30.0,Female,Bachelor's,Software Engineer,8.0,180000.0,China,Korean
+2407,33.0,Male,Master's Degree,Senior Software Engineer,8.0,139817.0,Canada,White
+3151,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,Canada,Asian
+4918,31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0,China,Korean
+2625,30.0,Female,Master's Degree,Senior Project Engineer,6.0,107906.0,UK,Mixed
+3046,24.0,Male,PhD,Software Engineer Manager,1.0,106686.0,Australia,Asian
+3410,36.0,Male,Master's Degree,Senior HR Generalist,7.0,89000.0,Canada,Black
+4916,28.0,Female,Master's Degree,Marketing Manager,7.0,110000.0,USA,Hispanic
+1758,27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0,USA,African American
+1214,53.0,Male,PhD,Software Engineer Manager,19.0,195000.0,Australia,Australian
+1914,27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0,Australia,Australian
+4999,27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0,UK,Asian
+2231,27.0,Male,Bachelor's Degree,Front end Developer,2.0,65000.0,UK,White
+5683,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0,UK,Asian
+2273,32.0,Male,Master's Degree,Product Manager,7.0,110000.0,Australia,Asian
+267,44.0,Female,Master's,Senior HR Specialist,15.0,140000.0,China,Chinese
+3487,32.0,Female,Master's Degree,Senior Human Resources Manager,6.0,80000.0,Australia,Australian
+4605,27.0,Female,Bachelor's Degree,Web Developer,2.0,50000.0,Australia,Asian
+2412,36.0,Male,Master's Degree,Front end Developer,8.0,106492.0,Australia,Asian
+4299,34.0,Male,Bachelor's Degree,Operations Manager,8.0,101000.0,USA,African American
+4144,33.0,Female,Master's Degree,Software Developer,8.0,95000.0,UK,Asian
+5942,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,Canada,Black
+1618,48.0,Male,PhD,Senior Project Engineer,16.0,190000.0,USA,White
+14,27.0,Male,Bachelor's,Customer Service Rep,2.0,40000.0,Canada,Asian
+3373,25.0,Female,Master's Degree,Software Engineer,2.0,60000.0,UK,White
+4384,38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0,Australia,Asian
+4414,44.0,Female,PhD,Data Scientist,18.0,183000.0,Canada,Asian
+8,26.0,Female,Bachelor's,Marketing Coordinator,1.0,45000.0,China,Chinese
+5205,34.0,Female,PhD,Research Director,10.0,150000.0,China,Korean
+4880,24.0,Female,High School,Sales Associate,1.0,30000.0,Australia,Australian
+334,36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,China,Korean
+4410,34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0,Australia,White
+5635,27.0,Male,Bachelor's Degree,Software Engineer,3.0,75000.0,Canada,White
+3326,34.0,Male,Master's Degree,Data Analyst,8.0,100000.0,Australia,Australian
+3895,36.0,Male,Bachelor's Degree,Operations Manager,8.0,100000.0,Australia,Asian
+4860,26.0,Male,High School,Junior Sales Associate,2.0,31000.0,UK,Asian
+3629,27.0,Female,High School,Junior HR Generalist,1.0,32000.0,UK,Mixed
+2708,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,UK,Asian
+6485,42.0,Female,Master's Degree,Sales Manager,13.0,130000.0,Canada,Black
+1024,29.0,Female,Master's,Data Scientist,6.0,150000.0,UK,Welsh
+4493,27.0,Female,Bachelor's Degree,Software Developer,3.0,61000.0,Australia,Asian
+2254,44.0,Male,PhD,Senior Data Scientist,15.0,180000.0,UK,Welsh
+5277,36.0,Female,Master's Degree,Marketing Director,11.0,160000.0,USA,White
+1728,41.0,Male,PhD,Senior Project Engineer,13.0,185000.0,Australia,Asian
+1963,32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0,USA,African American
+624,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,UK,Asian
+3220,29.0,Male,Bachelor's Degree,Front End Developer,4.0,80000.0,China,Chinese
+4671,27.0,Male,Bachelor's Degree,Junior Data Analyst,2.0,50000.0,Canada,Black
+6634,42.0,Male,Bachelor's Degree,Financial Manager,13.0,130000.0,USA,Asian
+5640,39.0,Female,Bachelor's Degree,Financial Manager,15.0,200000.0,UK,Mixed
+1377,54.0,Male,PhD,Software Engineer Manager,18.0,195000.0,USA,White
+2065,27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0,Australia,Australian
+2256,31.0,Male,Master's Degree,Product Manager,6.0,120000.0,Canada,White
+3906,29.0,Female,High School,Junior Sales Associate,1.0,25000.0,Australia,Asian
+2550,23.0,Female,Bachelor's Degree,Senior Project Engineer,0.0,51831.0,Australia,Asian
+813,30.0,Male,Bachelor's,Data Analyst,5.0,160000.0,UK,Asian
+4599,29.0,Female,Bachelor's Degree,Web Developer,3.0,60000.0,Australia,White
+867,29.0,Female,Master's,Data Scientist,6.0,180000.0,Australia,Asian
+3131,50.0,Female,Master's Degree,Senior Software Engineer,23.0,183690.0,China,Korean
+1918,33.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,130000.0,USA,Hispanic
+197,45.0,Male,PhD,Senior Data Analyst,17.0,155000.0,UK,Asian
+5593,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,USA,White
+4539,27.0,Female,Bachelor's Degree,Junior HR Generalist,2.0,42000.0,Canada,Asian
+3473,33.0,Male,Bachelor's Degree,Web Developer,5.0,70000.0,UK,Mixed
+5929,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0,China,Korean
+3980,33.0,Male,Bachelor's Degree,Operations Manager,7.0,85000.0,UK,Welsh
+434,26.0,Female,Master's,Product Manager,2.0,120000.0,UK,Asian
+1928,49.0,Male,PhD,Senior Project Engineer,17.0,195000.0,USA,Asian
+5094,27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0,Canada,Asian
+6384,50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,China,White
+2857,48.0,Female,Master's Degree,Senior Software Engineer,23.0,185038.0,Canada,Asian
+2709,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,UK,Mixed
+5791,24.0,Female,High School,Receptionist,0.0,25000.0,Australia,Australian
+3958,34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,Canada,Black
+2293,28.0,Male,Bachelor's Degree,Software Engineer,4.0,75000.0,Canada,Asian
+84,29.0,Female,Bachelor's,Junior Designer,2.0,40000.0,Australia,Asian
+3557,36.0,Female,Master's Degree,Web Developer,7.0,85000.0,UK,White
+5583,26.0,Male,Bachelor's Degree,Product Designer,2.0,50000.0,Australia,Australian
+2888,52.0,Male,PhD,Software Engineer Manager,27.0,190596.0,USA,African American
+427,34.0,Male,Bachelor's,Product Manager,9.0,185000.0,China,Korean
+4421,26.0,Male,Bachelor's Degree,Software Engineer,1.0,52000.0,Australia,Asian
+2303,27.0,Female,Bachelor's Degree,Software Engineer,3.0,70000.0,UK,White
+6236,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,95000.0,UK,Welsh
+4345,30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0,Australia,Asian
+5557,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0,UK,White
+606,27.0,Male,Bachelor's,Software Engineer,4.0,140000.0,Australia,White
+3954,36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0,USA,White
+2305,34.0,Male,Master's Degree,Data Scientist,9.0,140000.0,UK,Welsh
+5057,21.0,Female,High School,Junior Sales Representative,0.0,25000.0,Australia,Australian
+4298,41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0,USA,Asian
+5310,43.0,Male,Master's Degree,Senior Software Engineer,19.0,185000.0,China,Chinese
+735,27.0,Male,Bachelor's,Software Engineer,4.0,140000.0,China,Chinese
+3974,26.0,Male,High School,Junior Sales Associate,2.0,30000.0,USA,African American
+186,33.0,Female,Master's,Senior Financial Analyst,6.0,95000.0,Canada,White
+5986,34.0,Male,PhD,Research Director,11.0,160000.0,Canada,White
+3210,23.0,Female,Bachelor's Degree,Software Engineer,1.0,50000.0,UK,Mixed
+3948,25.0,Female,Bachelor's Degree,Junior Software Developer,1.0,35000.0,USA,Hispanic
+1197,28.0,Female,Master's,Data Scientist,6.0,155000.0,Australia,White
+3860,30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0,China,Chinese
+3425,23.0,Female,Bachelor's Degree,Junior Web Developer,1.0,40000.0,Australia,White
+5256,34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0,China,Korean
+488,29.0,Female,Bachelor's,Software Engineer,4.0,140000.0,USA,White
+1503,49.0,Male,PhD,Software Engineer Manager,15.0,185000.0,Australia,Australian
+3818,33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,Australia,Australian
+5548,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,85000.0,Canada,White
+6292,33.0,Male,Bachelor's Degree,Junior Sales Representative,4.0,55000.0,USA,White
+2112,33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0,Canada,Black
+5725,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0,USA,Asian
+5368,34.0,Male,Bachelor's Degree,Marketing Manager,9.0,130000.0,Australia,Asian
+5973,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0,Australia,Australian
+5402,35.0,Female,Master's Degree,Marketing Director,11.0,160000.0,China,White
+1943,39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0,USA,Asian
+2620,37.0,Female,Bachelor's Degree,Senior Project Engineer,13.0,137336.0,Australia,White
+2488,53.0,Male,PhD,Software Engineer Manager,25.0,181714.0,China,White
+229,51.0,Female,Master's,Director of Human Resources,21.0,190000.0,USA,Hispanic
+5839,33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0,China,White
+1435,27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0,Australia,White
+6621,36.0,Female,PhD,Senior Product Marketing Manager,10.0,100000.0,USA,Asian
+2844,33.0,Female,Master's Degree,Full Stack Engineer,9.0,136986.0,Australia,White
+5552,24.0,Female,High School,Receptionist,0.0,25000.0,China,Korean
+4526,42.0,Male,PhD,Senior Human Resources Manager,14.0,130000.0,UK,Asian
+3985,31.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0,China,Chinese
+4143,25.0,Male,High School,Junior Sales Associate,1.0,26000.0,Australia,Australian
+2033,32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0,USA,African American
+1373,27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0,USA,Hispanic
+6311,41.0,Female,Bachelor's Degree,Content Marketing Manager,11.0,110000.0,Australia,Asian
+1395,30.0,Female,Master's Degree,Back end Developer,6.0,130000.0,Australia,Australian
+1547,38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0,USA,Hispanic
+1283,33.0,Male,Master's Degree,Back end Developer,6.0,130000.0,China,Korean
+4445,38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0,China,Chinese
+4044,41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0,Australia,White
+3129,33.0,Female,Master's Degree,Front end Developer,9.0,121432.0,Canada,White
+4440,34.0,Male,Bachelor's Degree,Operations Manager,8.0,104000.0,Canada,White
+2796,23.0,Female,Bachelor's Degree,Senior Project Engineer,0.0,52831.0,Canada,White
+255,44.0,Male,Bachelor's,Senior Software Engineer,14.0,130000.0,Australia,Australian
+5699,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0,Australia,White
+5075,26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0,USA,Hispanic
+4467,30.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,58000.0,China,Korean
+222,33.0,Male,Bachelor's,Senior Product Development Manager,7.0,100000.0,USA,Hispanic
+3416,30.0,Male,Master's Degree,Web Developer,4.0,65000.0,USA,White
+4973,27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0,Australia,Australian
+65,38.0,Female,Master's,Digital Marketing Manager,10.0,90000.0,China,Korean
+6187,27.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0,Canada,White
+5781,31.0,Female,PhD,Data Scientist,8.0,140000.0,Australia,Asian
+1514,49.0,Male,PhD,Software Engineer Manager,15.0,185000.0,UK,Welsh
+3760,33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0,Australia,Australian
+800,26.0,Male,Bachelor's,Data Analyst,3.0,130000.0,China,White
+6471,41.0,Female,Master's Degree,Director of Marketing,12.0,120000.0,China,Korean
+1874,45.0,Male,PhD,Software Engineer Manager,16.0,185000.0,UK,White
+3761,29.0,Female,High School,Junior Sales Associate,1.0,30000.0,UK,Welsh
+1895,33.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0,Canada,White
+1423,36.0,Male,Master's Degree,Full Stack Engineer,7.0,130000.0,Canada,Asian
+5947,24.0,Female,High School,Receptionist,0.0,25000.0,Canada,White
+1110,34.0,Male,Bachelor's,Software Engineer,12.0,195000.0,UK,White
+2159,30.0,Female,Master's Degree,Front end Developer,5.0,105000.0,Canada,Asian
+5625,33.0,Male,Master's Degree,Software Engineer,9.0,120000.0,Canada,Black
+4198,27.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0,Australia,Asian
+1225,62.0,Male,PhD,Software Engineer Manager,19.0,200000.0,UK,White
+2114,29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0,China,Chinese
+1511,37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0,UK,Mixed
+2433,41.0,Female,PhD,Software Engineer Manager,13.0,138662.0,China,Korean
+1004,29.0,Female,Master's,Data Scientist,6.0,150000.0,UK,White
+4107,43.0,Male,PhD,Data Scientist,16.0,160000.0,China,White
+3581,37.0,Male,PhD,Director of HR,11.0,115000.0,USA,White
+378,27.0,Female,Bachelor's,Data Analyst,2.0,110000.0,UK,Mixed
+545,33.0,Female,Master's,Product Manager,11.0,198000.0,USA,White
+2204,26.0,Male,Bachelor's Degree,Back end Developer,2.0,65000.0,UK,White
+2183,39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0,UK,White
+757,30.0,Female,PhD,Data Scientist,7.0,185000.0,Canada,Asian
+293,35.0,Male,Bachelor's,Senior Business Development Manager,7.0,90000.0,USA,Hispanic
+766,25.0,Female,Bachelor's,Data Analyst,2.0,110000.0,Australia,Asian
+6519,48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0,Australia,Australian
+4991,30.0,Male,Master's Degree,Financial Manager,7.0,120000.0,Australia,Asian
+3480,25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0,China,Chinese
+2225,29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0,China,Korean
+178,38.0,Female,Bachelor's,Senior Human Resources Coordinator,10.0,80000.0,UK,Asian
+1146,28.0,Female,Master's,Data Scientist,6.0,150000.0,China,Korean
+2227,27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0,Canada,White
+3060,27.0,Male,High School,Back end Developer,4.0,80247.0,Australia,Australian
+5922,26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0,UK,Mixed
+1671,41.0,Male,PhD,Senior Project Engineer,13.0,185000.0,Australia,White
+503,27.0,Male,PhD,Data Scientist,2.0,115000.0,UK,Welsh
+2861,45.0,Female,Bachelor's Degree,Senior Project Engineer,21.0,167015.0,UK,Asian
+2767,28.0,Male,Bachelor's Degree,Software Engineer,4.0,75000.0,USA,African American
+3832,41.0,Male,PhD,Data Scientist,13.0,140000.0,UK,Welsh
+2275,37.0,Male,Bachelor's Degree,Data Analyst,11.0,160000.0,China,White
+749,28.0,Female,Bachelor's,Software Engineer,5.0,160000.0,China,Korean
+6199,38.0,Male,Master's Degree,Marketing Director,14.0,195000.0,USA,African American
+1048,27.0,Male,Bachelor's,Software Engineer,4.0,160000.0,USA,Asian
+5263,39.0,Female,Master's Degree,Marketing Manager,14.0,170000.0,Canada,Black
+4623,26.0,Female,Bachelor's Degree,Web Developer,1.0,35000.0,UK,Mixed
+4987,33.0,Male,PhD,Sales Director,10.0,155000.0,USA,White
+1418,28.0,Female,Master's Degree,Full Stack Engineer,4.0,110000.0,Canada,Asian
+5217,24.0,Female,High School,Sales Associate,0.0,25000.0,Canada,White
+4386,45.0,Male,PhD,Data Scientist,19.0,190000.0,Australia,White
+5786,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,UK,Welsh
+5245,24.0,Female,High School,Sales Associate,0.0,25000.0,Canada,Asian
+168,31.0,Female,Bachelor's,Junior HR Coordinator,4.0,50000.0,China,Korean
+6686,32.0,Male,High School,Junior Sales Representative,3.0,40000.0,UK,Welsh
+5912,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,Australia,White
+4532,26.0,Male,Master's Degree,Junior Web Developer,2.0,48000.0,Australia,Australian
+5509,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,Canada,Black
+1183,28.0,Male,Bachelor's,Software Engineer,4.0,160000.0,USA,Hispanic
+4089,41.0,Female,Master's Degree,Human Resources Manager,13.0,140000.0,USA,Hispanic
+321,32.0,Male,Bachelor's,Junior Financial Advisor,4.0,65000.0,USA,Hispanic
+3271,25.0,Female,Master's Degree,Software Engineer,2.0,60000.0,Canada,Asian
+2780,45.0,Male,Master's Degree,Software Engineer Manager,19.0,163780.0,Canada,Asian
+4431,30.0,Female,High School,Junior Sales Associate,1.0,25000.0,Canada,Asian
+246,49.0,Female,Master's,Director of Marketing,21.0,180000.0,Canada,White
+3478,43.0,Female,PhD,Senior Human Resources Manager,15.0,150000.0,UK,White
+1973,42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0,Australia,Australian
+6232,33.0,Female,Master's Degree,Marketing Manager,9.0,135000.0,Canada,Black
+508,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,Australia,White
+6528,26.0,Male,High School,Sales Manager,2.0,40000.0,China,Chinese
+5574,36.0,Female,PhD,Research Scientist,12.0,160000.0,China,White
+217,50.0,Female,PhD,Director of Operations,22.0,180000.0,Australia,Australian
+2467,57.0,Female,PhD,Full Stack Engineer,30.0,121450.0,Canada,Black
+4309,38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0,USA,African American
+1500,28.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0,UK,Mixed
+3785,30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0,USA,Asian
+3188,26.0,Male,Bachelor's Degree,Software Developer,2.0,60000.0,Australia,Asian
+3123,45.0,Female,Master's Degree,Software Engineer Manager,22.0,183530.0,USA,Asian
+4831,33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0,USA,Hispanic
+1337,37.0,Male,Master's Degree,Senior Software Engineer,9.0,150000.0,China,White
+3588,45.0,Male,PhD,Director of HR,14.0,140000.0,Australia,Australian
+5779,39.0,Female,Bachelor's Degree,Financial Manager,16.0,210000.0,UK,Mixed
+5833,24.0,Female,High School,Receptionist,0.0,25000.0,UK,Welsh
+3128,43.0,Male,Bachelor's Degree,Full Stack Engineer,18.0,152560.0,Australia,Australian
+335,47.0,Male,Master's,Director of Operations,19.0,170000.0,China,Chinese
+3917,47.0,Male,PhD,Data Scientist,19.0,190000.0,Australia,White
+3335,48.0,Male,PhD,Director of Data Science,18.0,210000.0,Canada,White
+6695,33.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0,Australia,Australian
+2918,31.0,Male,Bachelor's Degree,Back end Developer,8.0,100679.0,USA,White
+5488,28.0,Female,PhD,Data Scientist,5.0,100000.0,UK,White
+6270,42.0,Male,Master's Degree,Director of Marketing,13.0,130000.0,Canada,Asian
+2523,39.0,Male,Master's Degree,Software Engineer Manager,14.0,142360.0,USA,African American
+1559,48.0,Male,PhD,Senior Project Engineer,16.0,190000.0,Australia,Australian
+748,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,UK,Welsh
+2945,35.0,Male,Bachelor's Degree,Front end Developer,10.0,128999.0,Canada,Black
+6197,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,USA,Asian
+4331,44.0,Male,PhD,Data Scientist,18.0,182000.0,UK,Welsh
+3504,44.0,Female,PhD,Director of HR,13.0,135000.0,UK,White
+6468,50.0,Male,PhD,Marketing Manager,18.0,180000.0,Canada,Black
+439,25.0,Female,Master's,Data Analyst,1.0,100000.0,Australia,Asian
+349,36.0,Male,Bachelor's,Senior Business Development Manager,8.0,110000.0,USA,Asian
+4887,30.0,Male,Master's Degree,Financial Manager,7.0,120000.0,Australia,Australian
+2391,50.0,Male,Master's Degree,Software Engineer Manager,21.0,166512.0,UK,Welsh
+1413,29.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0,USA,Asian
+3363,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,Canada,White
+3810,32.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0,UK,Welsh
+1051,31.0,Male,Bachelor's,Data Analyst,9.0,190000.0,Canada,Black
+4116,29.0,Male,Bachelor's Degree,Software Engineer,4.0,70000.0,Australia,Asian
+261,37.0,Female,Bachelor's,Senior Financial Manager,10.0,120000.0,USA,African American
+5570,31.0,Female,PhD,Data Scientist,8.0,140000.0,Australia,White
+3969,36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0,Canada,Asian
+1834,46.0,Male,PhD,Senior Project Engineer,15.0,180000.0,China,Korean
+5961,24.0,Female,High School,Receptionist,0.0,25000.0,USA,White
+6210,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,65000.0,UK,Mixed
+2755,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,USA,African American
+1409,36.0,Male,Master's Degree,Full Stack Engineer,8.0,140000.0,USA,Hispanic
+2020,34.0,Male,Master's Degree,Back end Developer,8.0,140000.0,UK,Welsh
+601,31.0,Male,Master's,Data Scientist,9.0,195000.0,Canada,White
+3280,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,Australia,Australian
+45,28.0,Female,Bachelor's,Copywriter,2.0,40000.0,USA,White
+2109,50.0,Male,PhD,Senior Project Engineer,19.0,200000.0,Australia,White
+2718,34.0,Male,Master's Degree,Data Analyst,8.0,100000.0,USA,Hispanic
+3432,26.0,Female,Bachelor's Degree,Web Developer,3.0,55000.0,Australia,Asian
+4261,29.0,Female,High School,Junior Sales Associate,1.0,26000.0,USA,White
+1501,54.0,Male,PhD,Software Engineer Manager,17.0,195000.0,USA,Asian
+3653,25.0,Female,Bachelor's Degree,Junior Software Developer,1.0,35000.0,Australia,White
+3737,42.0,Male,PhD,Data Scientist,13.0,140000.0,USA,White
+325,36.0,Male,Bachelor's,Senior Operations Manager,9.0,100000.0,UK,Asian
+4998,29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0,China,White
+3723,34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,China,Korean
+3230,37.0,Male,Bachelor's Degree,Data Analyst,11.0,160000.0,Canada,Black
+6411,27.0,Male,PhD,Marketing Manager,4.0,55000.0,USA,African American
+3133,29.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,100358.0,Canada,White
+3079,30.0,Female,Master's Degree,Senior Project Engineer,5.0,100867.0,Canada,Black
+6154,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,65000.0,UK,White
+1788,39.0,Female,Master's Degree,Software Engineer Manager,12.0,160000.0,USA,African American
+1701,27.0,Male,Bachelor's Degree,Back end Developer,3.0,85000.0,Canada,Black
+232,27.0,Female,Master's,Junior Research Scientist,1.5,50000.0,China,White
+5503,31.0,Male,Bachelor's Degree,Project Manager,6.0,100000.0,USA,White
+578,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,China,Chinese
+4756,36.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0,China,Chinese
+3988,34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,China,Korean
+1975,45.0,Male,PhD,Senior Project Engineer,16.0,185000.0,Canada,Black
+1888,30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0,Canada,Black
+2542,35.0,Male,Master's Degree,Full Stack Engineer,9.0,130275.0,China,Korean
+449,31.0,Female,Bachelor's,Software Engineer,6.0,155000.0,Australia,Asian
+2359,25.0,Female,Master's Degree,Software Engineer,2.0,60000.0,UK,Mixed
+428,25.0,Female,Master's,Data Analyst,1.0,100000.0,China,Chinese
+1869,42.0,Male,PhD,Software Engineer Manager,14.0,190000.0,UK,Asian
+807,30.0,Female,PhD,Data Scientist,7.0,185000.0,China,Korean
+2998,54.0,Male,Master's Degree,Full Stack Engineer,28.0,191239.0,Australia,Australian
+412,28.0,Male,Master's,Product Manager,3.0,130000.0,Canada,Asian
+41,48.0,Male,Master's,Operations Director,18.0,190000.0,Canada,Black
+3213,37.0,Male,Bachelor's Degree,Data Analyst,11.0,160000.0,China,White
+5361,36.0,Female,Master's Degree,Marketing Director,11.0,160000.0,Australia,Australian
+6078,32.0,Female,PhD,Data Scientist,9.0,145000.0,Canada,Asian
+5462,26.0,Female,Bachelor's Degree,Graphic Designer,2.0,50000.0,Australia,Australian
+4820,26.0,Male,High School,Junior Sales Associate,2.0,31000.0,USA,Hispanic
+3951,29.0,Female,High School,Junior Sales Associate,1.0,25000.0,UK,White
+3713,25.0,Female,Bachelor's Degree,Junior Software Developer,1.0,35000.0,Australia,White
+1936,30.0,Female,Master's Degree,Front end Developer,5.0,105000.0,UK,Asian
+4320,29.0,Male,Bachelor's Degree,Software Engineer,4.0,71000.0,Canada,Asian
+1059,25.0,Female,Bachelor's,Data Analyst,2.0,100000.0,Canada,Asian
+19,51.0,Male,Bachelor's,Sales Director,22.0,180000.0,Australia,Asian
+1560,31.0,Male,Master's Degree,Senior Project Engineer,7.0,135000.0,Australia,White
+5344,33.0,Male,PhD,Research Scientist,10.0,150000.0,USA,White
+2097,29.0,Female,Bachelor's Degree,Front end Developer,4.0,90000.0,UK,White
+2089,46.0,Male,PhD,Software Engineer Manager,16.0,185000.0,Australia,Asian
+6680,27.0,Male,High School,Sales Manager,2.0,40000.0,UK,White
+5945,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,60000.0,China,Korean
+628,30.0,Male,PhD,Data Scientist,7.0,185000.0,UK,Welsh
+3411,28.0,Male,High School,Junior HR Generalist,1.0,32000.0,USA,Hispanic
+2640,31.0,Male,Bachelor's Degree,Front end Developer,7.0,103282.0,USA,White
+6414,48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0,Australia,White
+200,49.0,Female,Master's,Director of Human Capital,21.0,180000.0,UK,Mixed
+211,45.0,Female,PhD,Senior Product Designer,15.0,150000.0,China,Chinese
+3798,27.0,Male,Bachelor's Degree,Software Developer,3.0,60000.0,UK,Welsh
+6247,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,UK,Mixed
+3811,28.0,Female,High School,Junior Sales Associate,1.0,30000.0,China,White
+1332,43.0,Male,Master's Degree,Senior Project Engineer,12.0,165000.0,Canada,White
+51,33.0,Male,Master's,Business Intelligence Analyst,7.0,85000.0,Australia,Australian
+2251,28.0,Male,Bachelor's Degree,Software Engineer,4.0,75000.0,Canada,Asian
+6428,48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0,Canada,Black
+5571,29.0,Male,Bachelor's Degree,Marketing Analyst,4.0,70000.0,Canada,White
+4690,32.0,Female,Master's Degree,Senior Software Engineer,7.0,100000.0,Canada,White
+3217,24.0,Female,Bachelor's Degree,Software Developer,2.0,55000.0,China,Chinese
+6646,46.0,Male,Master's Degree,Marketing Manager,14.0,140000.0,UK,Asian
+1323,27.0,Female,Master's Degree,Back end Developer,2.0,70000.0,UK,Mixed
+5458,35.0,Female,Master's Degree,Marketing Director,11.0,160000.0,UK,White
+101,35.0,Male,Master's,Product Marketing Manager,8.0,95000.0,China,White
+3659,36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0,China,White
+5686,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,UK,Mixed
+3566,44.0,Female,PhD,Director of HR,14.0,140000.0,USA,Asian
+3574,42.0,Female,Master's Degree,Director of HR,12.0,120000.0,USA,African American
+4375,30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0,UK,Mixed
+5069,33.0,Male,PhD,Sales Director,10.0,155000.0,Canada,White
+622,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,China,Korean
+5601,27.0,Male,Bachelor's Degree,Software Engineer,3.0,80000.0,UK,Mixed
+3234,24.0,Female,Bachelor's Degree,Software Developer,2.0,55000.0,Canada,Asian
+1904,30.0,Male,Bachelor's Degree,Back end Developer,5.0,100000.0,USA,White
+2664,46.0,Male,PhD,Director of Data Science,20.0,220000.0,Canada,Asian
+2228,49.0,Male,PhD,Senior Project Engineer,17.0,195000.0,USA,Asian
+2212,32.0,Female,Master's Degree,Full Stack Engineer,6.0,115000.0,USA,Asian
+6339,35.0,Male,PhD,Senior Product Marketing Manager,8.0,80000.0,UK,Welsh
+5195,38.0,Female,Master's Degree,Marketing Director,14.0,170000.0,Australia,White
+674,24.0,Male,Bachelor's,Data Analyst,1.0,90000.0,Australia,White
+2689,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,Australia,Asian
+6617,30.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0,UK,Mixed
+4982,34.0,Male,PhD,Director of Marketing,12.0,170000.0,China,White
+1425,33.0,Female,Master's Degree,Full Stack Engineer,5.0,120000.0,Australia,Australian
+1165,29.0,Male,Bachelor's,Data Analyst,7.0,130000.0,Australia,Asian
+4521,27.0,Female,Master's Degree,Web Developer,2.0,50000.0,Canada,White
+4231,29.0,Female,High School,Junior Sales Associate,1.0,26000.0,UK,Welsh
+707,26.0,Female,Bachelor's,Data Analyst,3.0,130000.0,Australia,Asian
+5155,31.0,Female,PhD,Research Scientist,8.0,120000.0,Canada,Black
+3770,34.0,Male,Bachelor's Degree,Operations Manager,8.0,90000.0,China,White
+1757,50.0,Male,PhD,Software Engineer Manager,17.0,195000.0,USA,White
+3084,54.0,Female,PhD,Software Engineer Manager,32.0,191510.0,China,Chinese
+3138,32.0,Female,Master's Degree,Product Manager,5.0,100000.0,Australia,Asian
+2588,30.0,Female,Master's Degree,Full Stack Engineer,5.0,102465.0,USA,White
+5521,34.0,Male,PhD,Research Director,11.0,170000.0,USA,Asian
+4272,35.0,Female,Bachelor's Degree,Human Resources Manager,8.0,92000.0,China,Korean
+2929,46.0,Female,Bachelor's Degree,Back end Developer,19.0,150729.0,Australia,Asian
+4394,36.0,Female,Bachelor's Degree,Operations Manager,7.0,91000.0,USA,White
+1427,51.0,Male,PhD,Software Engineer Manager,16.0,190000.0,USA,Hispanic
+529,34.0,Female,Master's,Product Manager,12.0,196000.0,Canada,White
+3546,31.0,Male,High School,Junior HR Generalist,2.0,35000.0,China,White
+6129,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,Australia,Asian
+2339,34.0,Male,Master's Degree,Data Scientist,9.0,140000.0,USA,African American
+972,33.0,Male,Master's,Product Manager,11.0,195000.0,USA,White
+5018,21.0,Female,High School,Junior Sales Representative,0.0,25000.0,Australia,White
+567,30.0,Female,PhD,Data Scientist,7.0,185000.0,USA,Asian
+5204,27.0,Male,Bachelor's Degree,Product Designer,3.0,60000.0,UK,Asian
+588,31.0,Male,Bachelor's,Data Analyst,9.0,195000.0,UK,Asian
+5448,34.0,Female,PhD,Research Director,11.0,160000.0,Canada,White
+5423,27.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0,China,White
+6365,23.0,Male,Bachelor's Degree,Sales Executive,1.0,35000.0,China,White
+2803,52.0,Female,PhD,Software Engineer Manager,29.0,194778.0,Canada,White
+4088,26.0,Female,Bachelor's Degree,Junior Software Developer,2.0,35000.0,China,White
+2635,38.0,Male,PhD,Software Engineer Manager,12.0,141735.0,China,Chinese
+5021,30.0,Male,Master's Degree,Financial Manager,7.0,120000.0,Canada,Asian
+5474,31.0,Female,Bachelor's Degree,Marketing Coordinator,4.0,65000.0,China,Chinese
+732,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,UK,Asian
+5320,26.0,Male,Bachelor's Degree,Junior Software Engineer,1.0,55000.0,USA,White
+5186,42.0,Male,Master's Degree,Senior Software Engineer,18.0,180000.0,Canada,Asian
+5724,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,Australia,White
+1803,42.0,Male,PhD,Software Engineer Manager,14.0,190000.0,China,Korean
+3412,33.0,Female,Bachelor's Degree,Web Developer,5.0,70000.0,UK,Welsh
+1672,30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0,UK,White
+410,33.0,Male,PhD,Data Scientist,8.0,190000.0,UK,White
+5884,29.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0,China,White
+327,32.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,Canada,White
+6601,49.0,Female,PhD,Senior Product Marketing Manager,20.0,200000.0,UK,White
+1086,33.0,Female,Master's,Product Manager,11.0,195000.0,China,White
+2314,36.0,Male,PhD,Senior Data Scientist,12.0,170000.0,Australia,Australian
+292,29.0,Female,Bachelor's,Junior Marketing Specialist,2.0,40000.0,Australia,Australian
+4412,45.0,Male,Master's Degree,Marketing Manager,20.0,204000.0,UK,White
+1732,26.0,Female,Master's Degree,Front end Developer,1.0,55000.0,UK,Mixed
+6454,50.0,Female,Master's Degree,Content Marketing Manager,19.0,190000.0,Australia,White
+4644,26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0,Australia,Australian
+1364,44.0,Female,Master's Degree,Senior Software Engineer,11.0,170000.0,China,Korean
+984,26.0,Male,Bachelor's,Data Analyst,3.0,120000.0,USA,White
+3774,26.0,Male,High School,Junior Sales Associate,2.0,35000.0,Australia,Asian
+1177,25.0,Female,Bachelor's,Data Analyst,2.0,90000.0,Canada,Black
+3999,36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0,China,Chinese
+1577,27.0,Male,Bachelor's Degree,Front end Developer,2.0,70000.0,Australia,Australian
+3223,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,USA,Asian
+4638,38.0,Female,PhD,Senior Research Scientist,12.0,140000.0,China,Chinese
+866,26.0,Male,Bachelor's,Data Analyst,3.0,130000.0,China,White
+2394,34.0,Female,Master's Degree,Full Stack Engineer,10.0,163398.0,UK,Mixed
+5668,25.0,Male,Bachelor's Degree,Product Manager,1.0,60000.0,UK,White
+6312,26.0,Male,Master's Degree,Sales Representative,3.0,45000.0,UK,Welsh
+4360,30.0,Female,Master's Degree,Human Resources Coordinator,3.0,49000.0,USA,Hispanic
+6551,25.0,Female,High School,Sales Executive,1.0,35000.0,Canada,Black
+6153,34.0,Male,PhD,Research Director,12.0,170000.0,UK,Welsh
+373,34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,China,White
+2044,33.0,Female,Bachelor's Degree,Full Stack Engineer,6.0,115000.0,UK,Welsh
+4259,43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0,USA,African American
+4369,38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0,China,Chinese
+1265,32.0,Female,Master's Degree,Full Stack Engineer,5.0,120000.0,Canada,Black
+3973,34.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,UK,Asian
+4865,27.0,Female,Bachelor's Degree,Junior Software Engineer,2.0,48000.0,USA,White
+4597,28.0,Female,Bachelor's Degree,Junior HR Generalist,3.0,50000.0,Canada,Asian
+3082,33.0,Female,Master's Degree,Full Stack Engineer,9.0,136986.0,Australia,Asian
+6064,32.0,Female,PhD,Data Scientist,9.0,145000.0,USA,Asian
+5820,37.0,Male,Master's Degree,Marketing Director,14.0,190000.0,Australia,Asian
+2528,31.0,Other,High School,Back end Developer,8.0,104127.0,USA,African American
+1178,30.0,Male,Bachelor's,Product Manager,8.0,185000.0,Australia,Asian
+4355,30.0,Female,High School,Junior Sales Associate,1.0,26000.0,UK,Mixed
+122,33.0,Female,Bachelor's,Junior Operations Analyst,5.0,50000.0,Australia,Australian
+481,34.0,Male,Bachelor's,Product Manager,9.0,185000.0,China,White
+3045,50.0,Female,Master's Degree,Full Stack Engineer,24.0,192756.0,Canada,Asian
+3553,27.0,Female,Master's Degree,Senior HR Generalist,4.0,70000.0,USA,Hispanic
+6697,51.0,Female,Master's Degree,Senior Product Marketing Manager,19.0,190000.0,UK,White
+1160,33.0,Male,Master's,Data Scientist,10.0,195000.0,Australia,White
+4343,41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0,Canada,Black
+942,25.0,Female,Bachelor's,Data Analyst,2.0,110000.0,UK,Mixed
+4897,21.0,Female,High School,Junior Sales Representative,0.0,25000.0,USA,Asian
+441,31.0,Female,Bachelor's,Software Engineer,6.0,155000.0,China,Chinese
+4906,24.0,Female,High School,Sales Associate,1.0,30000.0,Canada,White
+3470,26.0,Female,Bachelor's Degree,Junior Web Developer,2.0,45000.0,China,Korean
+2724,26.0,Male,Bachelor's Degree,Software Developer,2.0,60000.0,USA,White
+4105,36.0,Male,Bachelor's Degree,Operations Manager,9.0,110000.0,UK,Mixed
+3437,29.0,Male,Bachelor's Degree,Junior Web Developer,2.0,45000.0,Canada,White
+3446,31.0,Male,High School,Junior HR Generalist,2.0,35000.0,USA,African American
+5770,25.0,Female,High School,Customer Service Representative,1.0,30000.0,USA,Asian
+3777,46.0,Male,PhD,Data Scientist,18.0,180000.0,UK,White
+4395,43.0,Male,PhD,Data Scientist,17.0,179000.0,UK,Asian
+4696,29.0,Female,Bachelor's Degree,Marketing Coordinator,3.0,55000.0,Canada,Black
+4627,23.0,Female,Bachelor's Degree,Junior HR Coordinator,1.0,32000.0,China,Korean
+281,41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,Canada,Black
+1602,38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0,China,White
+1907,45.0,Male,PhD,Senior Project Engineer,16.0,185000.0,UK,Welsh
+6556,26.0,Male,High School,Sales Manager,2.0,40000.0,China,Korean
+5780,26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0,Canada,White
+6482,41.0,Male,Bachelor's Degree,Financial Manager,12.0,120000.0,Australia,White
+3253,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,USA,White
+1561,40.0,Female,PhD,Senior Software Engineer,12.0,160000.0,USA,White
+1299,38.0,Male,Master's Degree,Senior Software Engineer,10.0,155000.0,Canada,Black
+579,28.0,Female,Bachelor's,Software Engineer,5.0,160000.0,Canada,Asian
+59,35.0,Male,Master's,Product Manager,7.0,105000.0,Canada,Asian
+4567,28.0,Female,High School,Juniour HR Generalist,2.0,43000.0,China,Chinese
+789,28.0,Female,Bachelor's,Software Engineer,5.0,160000.0,Australia,Asian
+6319,24.0,Female,Bachelor's Degree,Sales Executive,1.0,35000.0,China,Chinese
+6183,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,USA,Hispanic
+5330,27.0,Male,Bachelor's Degree,Marketing Analyst,2.0,50000.0,Australia,Asian
+6473,32.0,Female,Bachelor's Degree,Sales Director,8.0,80000.0,Australia,Australian
+5834,37.0,Male,Master's Degree,Marketing Director,14.0,190000.0,China,White
+4957,31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0,USA,White
+6144,40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0,Canada,Black
+2895,38.0,Male,Bachelor's Degree,Front end Developer,11.0,136062.0,USA,Hispanic
+4132,49.0,Male,PhD,Data Scientist,22.0,220000.0,China,White
+4613,28.0,Female,Bachelor's Degree,Junior HR Coordinator,3.0,45000.0,Canada,White
+2443,39.0,Male,Master's Degree,Software Engineer Manager,14.0,142360.0,Canada,Asian
+422,31.0,Female,Bachelor's,Software Engineer,6.0,155000.0,China,Chinese
+4667,31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0,China,Korean
+555,30.0,Female,PhD,Data Scientist,7.0,185000.0,USA,Asian
+4169,43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0,Australia,Australian
+1767,30.0,Male,Master's Degree,Full Stack Engineer,5.0,105000.0,Australia,White
+1356,50.0,Male,PhD,Software Engineer Manager,16.0,190000.0,UK,White
+3153,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,Australia,White
+5974,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,China,Chinese
+2465,25.0,Other,High School,Full Stack Engineer,2.0,69032.0,USA,African American
+1407,29.0,Female,Bachelor's Degree,Front end Developer,3.0,85000.0,UK,White
+3667,45.0,Male,PhD,Data Scientist,18.0,180000.0,Canada,White
+1538,34.0,Male,Bachelor's Degree,Back end Developer,6.0,120000.0,Australia,Asian
+4821,33.0,Female,Master's Degree,Senior Software Engineer,8.0,105000.0,USA,White
+182,44.0,Female,PhD,Senior UX Designer,15.0,145000.0,USA,Hispanic
+4387,31.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0,UK,Welsh
+796,25.0,Female,Bachelor's,Data Analyst,2.0,110000.0,USA,Asian
+5843,30.0,Female,Bachelor's Degree,Marketing Coordinator,5.0,90000.0,USA,Hispanic
+1195,29.0,Female,Bachelor's,Data Analyst,7.0,130000.0,Australia,Australian
+1217,37.0,Female,Master's Degree,Senior Software Engineer,9.0,155000.0,UK,Asian
+1617,49.0,Male,PhD,Software Engineer Manager,15.0,185000.0,UK,Asian
+3040,33.0,Female,Master's Degree,Senior Project Engineer,10.0,113334.0,Canada,White
+4842,28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0,Australia,Asian
+532,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,Australia,White
+712,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,Australia,Asian
+2801,43.0,Male,Master's Degree,Full Stack Engineer,20.0,167924.0,Australia,Australian
+3875,30.0,Male,Bachelor's Degree,Operations Manager,5.0,70000.0,UK,Welsh
+5636,33.0,Female,Master's Degree,Marketing Manager,8.0,120000.0,USA,Asian
+3959,26.0,Male,High School,Junior Sales Associate,2.0,30000.0,Australia,Australian
+1924,45.0,Male,PhD,Senior Project Engineer,16.0,185000.0,Australia,Australian
+909,33.0,Female,Master's,Product Manager,11.0,198000.0,Canada,Black
+2621,51.0,Male,PhD,Software Engineer Manager,26.0,191159.0,China,White
+5676,26.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0,Canada,White
+3272,37.0,Male,Bachelor's Degree,Data Analyst,11.0,160000.0,UK,Mixed
+3583,39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0,USA,Asian
+3490,38.0,Male,Master's Degree,Senior HR Generalist,8.0,95000.0,UK,Asian
+1516,27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0,Canada,White
+2587,38.0,Male,Bachelor's Degree,Back end Developer,12.0,131960.0,USA,Asian
+928,32.0,Male,Bachelor's,Software Engineer,8.0,190000.0,Canada,Asian
+2561,50.0,Female,Master's Degree,Full Stack Engineer,25.0,192344.0,USA,White
+1325,23.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,USA,African American
+15,44.0,Male,Bachelor's,Operations Manager,16.0,125000.0,China,Chinese
+6054,36.0,Female,PhD,Research Scientist,13.0,185000.0,Australia,White
+317,36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,Canada,White
+3942,42.0,Male,PhD,Data Scientist,14.0,140000.0,Canada,Black
+6325,25.0,Female,High School,Sales Associate,1.0,35000.0,Australia,Asian
+3109,31.0,Female,Bachelor's Degree,Full Stack Engineer,7.0,108204.0,Canada,Black
+1347,27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0,Canada,Asian
+1408,52.0,Male,PhD,Software Engineer Manager,18.0,200000.0,China,White
+4240,36.0,Female,Master's Degree,Marketing Manager,11.0,117000.0,USA,African American
+1414,28.0,Female,Master's Degree,Back end Developer,3.0,90000.0,USA,Hispanic
+6315,42.0,Female,Master's Degree,Director of Marketing,13.0,130000.0,UK,Welsh
+5567,37.0,Male,Master's Degree,Marketing Director,14.0,180000.0,China,Chinese
+2464,49.0,Female,Bachelor's Degree,Back end Developer,19.0,120177.0,Canada,White
+2968,34.0,Male,Master's Degree,Software Engineer Manager,9.0,146075.0,China,White
+4151,30.0,Male,Bachelor's Degree,Software Engineer,5.0,75000.0,Australia,Australian
+4510,35.0,Female,Master's Degree,Human Resources Manager,8.0,92000.0,China,Korean
+1654,28.0,Male,Bachelor's Degree,Back end Developer,2.0,70000.0,UK,Welsh
+5918,32.0,Male,Bachelor's Degree,Product Manager,7.0,120000.0,Australia,White
+4954,26.0,Male,Bachelor's Degree,Senior Product Marketing Manager,5.0,85000.0,USA,White
+5524,24.0,Female,High School,Receptionist,0.0,25000.0,Australia,Asian
+6510,41.0,Male,Bachelor's Degree,Content Marketing Manager,12.0,120000.0,USA,African American
+1864,28.0,Female,Bachelor's Degree,Front end Developer,2.0,65000.0,Canada,Asian
+5237,39.0,Female,Master's Degree,Marketing Manager,12.0,150000.0,USA,Asian
+2179,42.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0,Canada,Asian
+1034,29.0,Female,Master's,Data Scientist,6.0,150000.0,USA,White
+4295,30.0,Female,High School,Junior Sales Associate,1.0,26000.0,China,Chinese
+6453,27.0,Male,PhD,Marketing Manager,4.0,55000.0,UK,Asian
+1742,43.0,Male,PhD,Senior Project Engineer,13.0,185000.0,Australia,Asian
+6303,36.0,Female,Bachelor's Degree,Junior Sales Representative,2.0,35000.0,USA,Hispanic
+2572,46.0,Male,Bachelor's Degree,Senior Project Engineer,24.0,166828.0,USA,Asian
+1012,28.0,Female,Bachelor's,Software Engineer,5.0,150000.0,Canada,White
+5759,29.0,Male,Bachelor's Degree,Product Manager,5.0,80000.0,UK,Welsh
+6464,31.0,Male,PhD,Senior Product Marketing Manager,7.0,90000.0,China,Korean
+693,31.0,Female,Master's,Data Scientist,6.0,180000.0,China,Korean
+535,28.0,Female,Bachelor's,Software Engineer,5.0,160000.0,Australia,Asian
+2184,27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0,Canada,Asian
+6105,27.0,Male,Bachelor's Degree,Product Designer,2.0,55000.0,USA,African American
+654,24.0,Male,Bachelor's,Data Analyst,1.0,90000.0,China,Korean
+33,39.0,Female,Bachelor's,Marketing Specialist,10.0,65000.0,Canada,White
+6547,48.0,Female,PhD,Senior Product Marketing Manager,17.0,170000.0,USA,African American
+44,41.0,Male,Master's,Strategy Consultant,13.0,130000.0,UK,Asian
+4514,32.0,Female,Master's Degree,Marketing Manager,6.0,77000.0,USA,African American
+2079,45.0,Male,PhD,Senior Project Engineer,16.0,185000.0,Canada,White
+966,31.0,Male,Bachelor's,Data Analyst,9.0,190000.0,Canada,White
+5577,34.0,Male,PhD,Research Director,11.0,170000.0,UK,White
+3202,30.0,Female,Bachelor's Degree,Software Engineer,5.0,90000.0,USA,Asian
+1784,41.0,Male,Master's Degree,Software Engineer Manager,13.0,170000.0,China,White
+4972,29.0,Male,Bachelor's Degree,Digital Marketing Manager,6.0,95000.0,China,Korean
+3107,45.0,Female,PhD,Senior Project Engineer,21.0,181285.0,Canada,White
+2116,27.0,Male,Bachelor's Degree,Back end Developer,3.0,80000.0,Australia,White
+2822,27.0,Male,High School,Back end Developer,4.0,80247.0,Australia,White
+4988,21.0,Female,High School,Junior Sales Representative,0.0,25000.0,China,Korean
+5046,25.0,Female,Bachelor's Degree,Marketing Manager,3.0,65000.0,USA,Asian
+26,37.0,Female,Master's,Software Manager,11.0,110000.0,Australia,Asian
+6212,24.0,Female,High School,Receptionist,0.0,25000.0,Australia,Australian
+63,47.0,Male,PhD,Senior Data Scientist,21.0,180000.0,China,White
+1046,33.0,Female,Master's,Product Manager,11.0,195000.0,UK,White
+6224,28.0,Female,Bachelor's Degree,Marketing Analyst,3.0,65000.0,UK,Welsh
+3878,33.0,Female,Bachelor's Degree,Human Resources Manager,6.0,75000.0,Canada,White
+228,37.0,Male,Master's,Senior Software Architect,9.0,120000.0,Australia,Australian
+2126,50.0,Male,PhD,Senior Project Engineer,19.0,200000.0,Canada,Black
+5758,26.0,Female,Bachelor's Degree,Graphic Designer,1.0,45000.0,China,Chinese
+2866,30.0,Female,Master's Degree,Senior Project Engineer,5.0,101733.0,USA,White
+5273,35.0,Female,PhD,Research Director,11.0,160000.0,Canada,Black
+971,24.0,Male,Bachelor's,Data Analyst,2.0,95000.0,Canada,Black
+4373,41.0,Female,Master's Degree,Marketing Coordinator,13.0,131000.0,UK,Welsh
+3627,26.0,Female,Bachelor's Degree,Junior Web Developer,2.0,45000.0,UK,Welsh
+5944,34.0,Male,PhD,Research Director,11.0,160000.0,China,Chinese
+4218,30.0,Male,Bachelor's Degree,Software Developer,6.0,85000.0,UK,White
+1545,44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0,Canada,White
+3939,36.0,Female,Master's Degree,Marketing Coordinator,9.0,100000.0,UK,Asian
+4155,37.0,Male,Bachelor's Degree,Operations Manager,10.0,113000.0,Australia,Asian
+5392,34.0,Female,PhD,Research Director,11.0,160000.0,China,Korean
+4944,31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0,China,White
+4108,29.0,Male,Bachelor's Degree,Software Developer,5.0,80000.0,Australia,Asian
+6418,25.0,Female,High School,Sales Executive,1.0,35000.0,Australia,Australian
+2278,34.0,Male,Master's Degree,Data Analyst,8.0,100000.0,Canada,Black
+5811,33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0,UK,White
+253,28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0,USA,Asian
+4199,43.0,Female,Master's Degree,Human Resources Manager,14.0,146000.0,Australia,White
+4326,45.0,Male,PhD,Data Scientist,19.0,190000.0,UK,Mixed
+2656,33.0,Male,Master's Degree,Data Analyst,8.0,120000.0,Australia,Asian
+4608,32.0,Male,Master's Degree,Web Developer,6.0,80000.0,Australia,White
+2972,32.0,Male,Bachelor's Degree,Senior Software Engineer,7.0,106218.0,Australia,Asian
+6702,46.0,Male,Master's Degree,Marketing Manager,14.0,140000.0,China,Korean
+1381,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,China,Korean
+4207,43.0,Male,PhD,Data Scientist,16.0,162000.0,Canada,Asian
+5363,29.0,Female,PhD,Data Scientist,5.0,100000.0,USA,Asian
+4931,31.0,Male,Bachelor's Degree,Sales Director,9.0,140000.0,USA,African American
+3545,39.0,Male,Master's Degree,Senior HR Generalist,10.0,105000.0,UK,Asian
+1734,44.0,Female,PhD,Software Engineer Manager,11.0,165000.0,China,Chinese
+643,33.0,Female,Master's,Product Manager,11.0,198000.0,USA,African American
+3243,34.0,Male,Master's Degree,Data Scientist,9.0,140000.0,UK,White
+6504,36.0,Male,Bachelor's Degree,Sales Director,6.0,75000.0,Canada,White
+299,37.0,Male,Bachelor's,Senior Marketing Analyst,9.0,100000.0,UK,Mixed
+305,36.0,Male,Bachelor's,Senior Business Analyst,8.0,95000.0,China,Chinese
+6260,29.0,Male,Bachelor's Degree,Sales Associate,2.0,45000.0,USA,Hispanic
+3674,36.0,Female,Master's Degree,Marketing Coordinator,8.0,85000.0,USA,African American
+2838,52.0,Male,PhD,Software Engineer Manager,26.0,185982.0,China,White
+5083,21.0,Female,High School,Junior Sales Representative,0.0,25000.0,USA,African American
+2571,42.0,Female,Master's Degree,Full Stack Engineer,14.0,163558.0,USA,Hispanic
+657,30.0,Female,PhD,Data Scientist,7.0,185000.0,Australia,Asian
+5939,33.0,Female,Master's Degree,Marketing Manager,9.0,130000.0,China,Korean
+6272,48.0,Male,PhD,Sales Director,18.0,180000.0,USA,Asian
+3745,33.0,Male,Bachelor's Degree,Operations Manager,6.0,75000.0,USA,White
+241,29.0,Male,Bachelor's,Junior Business Analyst,1.5,40000.0,Australia,Australian
+785,27.0,Male,Bachelor's,Software Engineer,4.0,140000.0,China,Korean
+1020,30.0,Female,PhD,Data Scientist,7.0,170000.0,Canada,White
+6172,40.0,Female,Bachelor's Degree,Financial Manager,16.0,215000.0,Australia,White
+979,27.0,Male,Bachelor's,Software Engineer,4.0,160000.0,UK,Mixed
+5212,35.0,Male,Bachelor's Degree,Project Manager,10.0,130000.0,China,White
+2319,35.0,Female,Master's Degree,Data Analyst,9.0,120000.0,Canada,Asian
+1454,27.0,Male,Bachelor's Degree,Front end Developer,3.0,80000.0,Canada,White
+258,50.0,Female,PhD,Director of Operations,22.0,180000.0,Australia,White
+895,28.0,Female,Bachelor's,Software Engineer,5.0,160000.0,UK,Mixed
+1473,31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0,Australia,White
+3555,42.0,Female,Master's Degree,Director of HR,13.0,135000.0,USA,Asian
+3255,42.0,Male,Master's Degree,Product Manager,14.0,180000.0,Canada,White
+3248,28.0,Male,Bachelor's Degree,Software Engineer,4.0,75000.0,Australia,Australian
+6366,42.0,Female,Master's Degree,Sales Manager,13.0,130000.0,Canada,Black
+6374,29.0,Female,Bachelor's Degree,Financial Manager,4.0,55000.0,UK,Mixed
+1791,25.0,Female,Bachelor's Degree,Front end Developer,1.0,55000.0,Canada,Black
+6558,27.0,Male,PhD,Marketing Manager,4.0,55000.0,USA,Hispanic
+1412,32.0,Male,Master's Degree,Full Stack Engineer,6.0,120000.0,Canada,Black
+2631,41.0,Male,Master's Degree,Senior Project Engineer,15.0,143705.0,Australia,Asian
+4339,38.0,Male,Bachelor's Degree,Operations Manager,11.0,119000.0,USA,Hispanic
+1448,36.0,Male,Master's Degree,Senior Software Engineer,7.0,140000.0,Australia,Asian
+4669,25.0,Male,High School,Junior Sales Associate,1.0,30000.0,Australia,Australian
+2678,23.0,Male,Bachelor's Degree,Software Developer,1.0,45000.0,China,Chinese
+4023,33.0,Female,Bachelor's Degree,Human Resources Manager,8.0,95000.0,Australia,Australian
+2277,41.0,Female,PhD,Director of Data Science,16.0,200000.0,USA,Hispanic
+5173,31.0,Female,Master's Degree,Financial Manager,7.0,120000.0,Canada,Asian
+5341,25.0,Female,High School,Sales Associate,0.0,25000.0,Canada,Black
+3820,38.0,Female,Master's Degree,Marketing Manager,10.0,110000.0,Australia,Australian
+4818,32.0,Male,Bachelor's Degree,Junior Marketing Manager,6.0,72000.0,China,Korean
+1456,27.0,Female,Master's Degree,Full Stack Engineer,3.0,100000.0,UK,White
+4674,26.0,Female,Bachelor's Degree,Junior Software Engineer,1.0,45000.0,USA,Asian
+5413,32.0,Male,PhD,Research Scientist,10.0,150000.0,USA,Hispanic
+1094,28.0,Male,Bachelor's,Software Engineer,4.0,160000.0,Canada,White
+5588,36.0,Female,PhD,Research Scientist,12.0,160000.0,Canada,White
+124,44.0,Female,PhD,Senior Scientist,16.0,140000.0,UK,Mixed
+3018,45.0,Male,Master's Degree,Software Engineer Manager,19.0,163780.0,China,Korean
+5002,31.0,Female,Master's Degree,Content Marketing Manager,8.0,120000.0,Canada,Asian
+5100,28.0,Female,PhD,Director of Marketing,6.0,105000.0,Australia,Asian
+1613,24.0,Male,Bachelor's Degree,Front end Developer,1.0,55000.0,UK,Welsh
+2459,27.0,Female,Master's Degree,Front end Developer,5.0,78354.0,China,White
+2515,57.0,Female,Master's Degree,Full Stack Engineer,33.0,188232.0,UK,Mixed
+2879,54.0,Male,Master's Degree,Full Stack Engineer,28.0,191239.0,Australia,Australian
+600,24.0,Male,Bachelor's,Data Analyst,1.0,95000.0,UK,Mixed
+75,37.0,Male,Bachelor's,Project Manager,10.0,95000.0,USA,Asian
+6623,43.0,Female,Master's Degree,Digital Marketing Manager,15.0,150000.0,UK,Mixed
+3787,41.0,Male,PhD,Data Scientist,13.0,140000.0,UK,Welsh
+4806,34.0,Male,Master's Degree,Senior Data Scientist,9.0,125000.0,China,Korean
+3615,30.0,Male,High School,Junior HR Coordinator,2.0,33000.0,Canada,Asian
+2544,23.0,Female,High School,Back end Developer,2.0,62807.0,USA,African American
+149,45.0,Male,Master's,Director of Sales,19.0,175000.0,Canada,Black
+6588,32.0,Male,PhD,Senior Product Marketing Manager,8.0,80000.0,UK,Welsh
+455,25.0,Female,Master's,Data Analyst,1.0,100000.0,Australia,Australian
+3869,39.0,Female,Master's Degree,Human Resources Manager,11.0,120000.0,China,Korean
+2862,36.0,Male,Master's Degree,Full Stack Engineer,13.0,146508.0,USA,Hispanic
+1777,43.0,Female,PhD,Senior Project Engineer,14.0,190000.0,Australia,Australian
+810,25.0,Male,Bachelor's,Data Analyst,3.0,135000.0,Australia,Asian
+4707,31.0,Male,Bachelor's Degree,Junior Marketing Manager,5.0,70000.0,Canada,Asian
+3442,25.0,Female,Master's Degree,Junior HR Generalist,1.0,32000.0,USA,Asian
+1121,29.0,Male,Bachelor's,Data Analyst,7.0,130000.0,Canada,White
+812,29.0,Female,Master's,Data Scientist,6.0,180000.0,UK,Welsh
+1131,28.0,Female,Master's,Data Scientist,6.0,155000.0,China,Korean
+836,28.0,Female,Bachelor's,Software Engineer,5.0,160000.0,China,White
+1568,31.0,Male,Master's Degree,Full Stack Engineer,7.0,140000.0,USA,Asian
+6422,42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0,Canada,White
+6408,42.0,Female,Master's Degree,Digital Marketing Manager,14.0,140000.0,USA,Hispanic
+3619,37.0,Male,PhD,Director of HR,11.0,115000.0,China,White
+1237,42.0,Male,PhD,Senior Software Engineer,14.0,170000.0,Australia,White
+1227,42.0,Female,Master's Degree,Senior Project Engineer,11.0,170000.0,Canada,Asian
+1762,35.0,Male,Bachelor's Degree,Back end Developer,8.0,140000.0,USA,African American
+5192,32.0,Male,PhD,Data Scientist,9.0,140000.0,Canada,White
+4509,41.0,Male,PhD,Data Scientist,15.0,157000.0,Australia,Asian
+2680,25.0,Male,Master's Degree,Software Engineer,2.0,60000.0,USA,African American
+1513,27.0,Female,Master's Degree,Back end Developer,2.0,70000.0,USA,Asian
+4688,38.0,Female,PhD,Senior Research Scientist,12.0,140000.0,UK,Mixed
+6667,33.0,Female,Bachelor's Degree,Content Marketing Manager,7.0,90000.0,UK,Welsh
+1029,25.0,Female,Bachelor's,Data Analyst,2.0,100000.0,USA,White
+4908,27.0,Female,Master's Degree,Content Marketing Manager,4.0,80000.0,Canada,Black
+5737,36.0,Female,PhD,Research Scientist,12.0,170000.0,UK,Welsh
+351,31.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,Canada,Black
+2208,31.0,Female,Bachelor's Degree,Front end Developer,6.0,110000.0,China,Chinese
+664,24.0,Male,Bachelor's,Data Analyst,1.0,90000.0,Canada,Black
+173,43.0,Male,Bachelor's,Senior Project Manager,16.0,140000.0,UK,White
+1372,30.0,Male,Bachelor's Degree,Back end Developer,4.0,95000.0,USA,African American
+4322,28.0,Female,Bachelor's Degree,Junior Software Developer,2.0,36000.0,UK,Asian
+424,30.0,Female,Bachelor's,Data Analyst,5.0,145000.0,China,White
+1625,44.0,Male,Master's Degree,Senior Project Engineer,11.0,170000.0,Canada,White
+4792,28.0,Male,Bachelor's Degree,Junior Data Analyst,3.0,52000.0,Australia,Australian
+883,30.0,Female,PhD,Data Scientist,7.0,185000.0,Canada,Asian
+5030,33.0,Male,PhD,Sales Director,10.0,155000.0,Canada,White
+1255,29.0,Female,Bachelor's Degree,Back end Developer,3.0,85000.0,Australia,Australian
+5903,28.0,Male,Bachelor's Degree,Marketing Analyst,3.0,65000.0,UK,Mixed
+3864,27.0,Male,High School,Junior Sales Associate,2.0,35000.0,Australia,Asian
+6241,38.0,Male,Master's Degree,Marketing Director,14.0,195000.0,Canada,Asian
+6028,27.0,Male,Bachelor's Degree,Product Designer,1.0,45000.0,China,White
+102,49.0,Female,Master's,Senior HR Manager,19.0,150000.0,Australia,White
+2134,43.0,Male,PhD,Senior Project Engineer,15.0,180000.0,Canada,White
+4658,38.0,Female,PhD,Senior Research Scientist,12.0,140000.0,Australia,Australian
+2155,43.0,Female,PhD,Senior Project Engineer,14.0,190000.0,UK,Asian
+5375,24.0,Male,Bachelor's Degree,Financial Analyst,1.0,55000.0,UK,White
+4561,28.0,Female,Bachelor's Degree,Junior HR Coordinator,3.0,45000.0,Australia,White
+2831,23.0,Male,PhD,Software Engineer Manager,0.0,52612.0,UK,Mixed
