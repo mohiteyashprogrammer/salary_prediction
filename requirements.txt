@@ -9,5 +9,8 @@ catboost
 dvc
 mlflow
 ipykernel
+pymysql
+mysql-connector-python
+python-dotenv
 
 -e .
