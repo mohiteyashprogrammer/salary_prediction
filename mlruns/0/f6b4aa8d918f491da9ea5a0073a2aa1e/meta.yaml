@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash%20mohite/OneDrive/Desktop/salary_prediction/mlruns/0/f6b4aa8d918f491da9ea5a0073a2aa1e/artifacts
+end_time: 1696613836292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6b4aa8d918f491da9ea5a0073a2aa1e
+run_name: secretive-colt-728
+run_uuid: f6b4aa8d918f491da9ea5a0073a2aa1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696613818116
+status: 3
+tags: []
+user_id: root
