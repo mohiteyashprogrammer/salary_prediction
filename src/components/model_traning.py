@@ -15,6 +15,8 @@ from sklearn.model_selection import GridSearchCV,RandomizedSearchCV
 from sklearn.metrics import r2_score,mean_squared_error,mean_absolute_error
 from src.utils import model_traning,save_object,lode_object
 import warnings
+import mlflow
+from urllib.parse import urlparse
 warnings.filterwarnings("ignore")
 
 @dataclass
@@ -26,6 +28,12 @@ class ModelTraning:
 
     def __init__(self):
         self.model_traning_config = ModelTraningConfig()
+
+    def eval_metrics(self,actual, pred):
+        rmse = np.sqrt(mean_squared_error(actual, pred))
+        mae = mean_absolute_error(actual, pred)
+        r2 = r2_score(actual, pred)
+        return rmse, mae, r2
 
 
     def start_model_traning(self,train_array,test_array):
@@ -112,6 +120,46 @@ class ModelTraning:
             ]
 
             best_model = models[best_model_name]
+
+            # config ML-FLOW
+
+            model_names =list(params.keys())
+
+            actual_model = ""
+
+            for model in model_names:
+                if best_model_name == model:
+                    actual_model = actual_model + model
+
+
+            best_params = params[actual_model]
+
+            # Take registry uri from dagshub
+            mlflow.set_registry_uri("https://dagshub.com/mohiteyashprogrammer/salary_prediction.mlflow")
+            tracking_url_type_store = urlparse(mlflow.get_artifact_uri()).scheme
+
+
+            # start mlflow
+            with mlflow.start_run(nested=True):
+
+                predicted_qualities = best_model.predict(X_test)
+
+                (rmse,mae,r2) = self.eval_metrics(y_test,predicted_qualities)
+
+                mlflow.log_params(best_params)
+
+                mlflow.log_metric("rmse",rmse)
+                mlflow.log_metric("r2",r2)
+                mlflow.log_metric("mae",mae)
+
+                
+                if tracking_url_type_store != "file":
+
+                    mlflow.sklearn.log_model(best_model,"model",registered_model_name=actual_model)
+
+                else:
+                    mlflow.sklearn.log_model(best_model, "model")
+
 
             print(f"Best Model Found, Name Is : {best_model_name},Accuracy_score: {best_model_score}")
             print("*"*100)
