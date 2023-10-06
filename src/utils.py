@@ -7,6 +7,7 @@ from src.logger import logging
 from src.exception import CustomException
 from dotenv import load_dotenv
 import pymysql
+import pickle
 
 load_dotenv()
 # define variable
@@ -37,4 +38,20 @@ def read_sql_data():
         
     except Exception as e:
         raise CustomException(e,sys)
+    
+
+def save_object(filepath,obj):
+    '''
+    This Function Will save Pickel file
+
+    '''
+    try:
+        dir_path = os.path.dirname(filepath)
+        os.makedirs(dir_path,exist_ok=True)
+
+        with open(filepath,"wb") as file_obj:
+            pickle.dump(obj,file_obj)
+
+    except Exception as e:
+        raise(CustomException(e,sys))
 
