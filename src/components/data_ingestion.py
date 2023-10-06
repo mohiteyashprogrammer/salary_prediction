@@ -2,11 +2,15 @@ import os
 import sys
 import pandas as pd
 import numpy as np
+import statistics as st
 from dataclasses import dataclass
 from src.logger import logging
 from src.exception import CustomException
 from src.utils import read_sql_data
 from sklearn.model_selection import train_test_split
+from src.components.data_transformation import DataTransformation
+import warnings
+warnings.filterwarnings("ignore")
 
 
 # create configure path from here
@@ -64,5 +68,7 @@ class DataIngestion:
 if __name__=="__main__":
     ingestion = DataIngestion()
     train_data_path,test_data_path = ingestion.start_data_ingestion()
+    data_transformation = DataTransformation()
+    train_arr,test_arr,_ = data_transformation.initated_data_transformation(train_data_path,test_data_path)
 
         
