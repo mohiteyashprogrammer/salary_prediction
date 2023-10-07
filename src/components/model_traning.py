@@ -140,7 +140,7 @@ class ModelTraning:
 
 
             # start mlflow
-            with mlflow.start_run(nested=True):
+            with mlflow.start_run():
 
                 predicted_qualities = best_model.predict(X_test)
 
@@ -173,3 +173,6 @@ class ModelTraning:
         except Exception as e:
             logging.info("Error Occured In Model Trainig Stage")
             raise CustomException(e,sys)
+        
+        finally:
+            mlflow.end_run()
