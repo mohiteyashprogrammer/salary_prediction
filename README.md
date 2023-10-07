@@ -1,4 +1,7 @@
+
 # Salary Prediction Application
+https://github.com/mohiteyashprogrammer/salary_prediction/assets/114924851/28070c26-34ab-4be4-b5b2-64b0be7a5c17
+
 
 # DVC
 '''
